@@ -7,7 +7,7 @@ Soon enough we will begin construction on the Death Star.. I mean our spin on Op
 Our current members are:
 PatimusxPrime - Patrick Healy, patimusxprime@gmail.com
 jimmyco2008 - James Spinella, james.robert.spinella@gmail.com
-nitsua98 - Austin Huang, austinh98@gmail.com
+nitsua98 - Austin Hung, austinh98@gmail.com
 
 
 If you are interested in this project feel free to contact either Jimmy or Patrick via XDA or email to join!
