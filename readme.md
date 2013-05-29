@@ -6,10 +6,7 @@ Please follow our thread on XDA: http://forum.xda-developers.com/showthread.php?
 
 We have an ETA set for late June to come out with a rough flashable release. ETA pending of course..
 
-As of right now we have 3 team members:
-James - jimmyco2008
-Austin - nitsua98
-Patrick - patimusxprime
+As of right now we have 3 team members: James - jimmyco2008, Austin - nitsua98, and Patrick - patimusxprime
 
 Thanks for reading,
 Team Serendipity
