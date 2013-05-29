@@ -1,0 +1,14 @@
+Package: mingetty
+Version: 1.08-r3.2
+Description: mingetty version 1.08-r3
+ A compact getty program for virtual consoles only
+Section: console/utils
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: mingetty
+Homepage: http://sourceforge.net/projects/mingetty/
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: mingetty-lic
+Source: http://cdnetworks-kr-1.dl.sourceforge.net/project/mingetty/mingetty/1.08/mingetty-1.08.tar.gz

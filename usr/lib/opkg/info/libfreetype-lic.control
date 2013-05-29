@@ -1,0 +1,16 @@
+Package: libfreetype-lic
+Version: 2.4.11-r0.5
+Description: Freetype font rendering library
+ FreeType is a software font engine that is designed to be small,
+ efficient, highly customizable, and portable while capable of producing
+ high-quality output (glyph images). It can be used in graphics libraries,
+ display servers, font conversion tools, text image generation tools, and
+ many other products as well.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: FreeType | GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: freetype
+Homepage: http://www.freetype.org/
+Source: http://downloads.sourceforge.net/freetype/freetype-2.4.11.tar.bz2 file://no-hardcode.patch

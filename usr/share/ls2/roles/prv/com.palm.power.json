@@ -1,0 +1,14 @@
+{
+    "role": {
+        "exeName":"/usr/sbin/powerd",
+        "type": "regular",
+        "allowedNames": ["com.palm.power",""]
+    },
+    "permissions": [
+        {
+            "service":"com.palm.power",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+    ]
+}

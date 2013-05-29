@@ -1,0 +1,5 @@
+/sbin/dhclient-script
+/sbin/dhclient
+/etc/dhcp/
+/etc/event.d/dhclient
+/etc/dhcp/dhclient.conf

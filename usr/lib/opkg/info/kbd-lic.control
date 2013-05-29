@@ -1,0 +1,12 @@
+Package: kbd-lic
+Version: 1.15.2-r4.4
+Description: kbd version 1.15.2-r4
+ This package contains keytable files and keyboard utilities
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: kbd
+Homepage: unknown
+Source: http://kernel.org/pub/linux/utils/kbd/kbd-1.15.2.tar.bz2

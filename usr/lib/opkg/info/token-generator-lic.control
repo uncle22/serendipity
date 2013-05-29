@@ -1,0 +1,12 @@
+Package: token-generator-lic
+Version: 1.0-r1.4
+Description: token-generator version 1.0-r1
+ Generate needed tokens for Open webOS on device boot
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: token-generator
+Homepage: unknown
+Source: file://token-generator.sh

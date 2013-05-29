@@ -1,0 +1,17 @@
+Package: packagegroup-webos-extended
+Version: 1.0-r19.5
+Description: packagegroup-webos-extended version 1.0-r19
+ meta-webos components used in Open webOS
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: packagegroup-webos-extended
+Homepage: unknown
+Depends: parted, luna-universalsearchmgr, lsb, nodejs, makedevs, browserserver, rdx-utils-stub, webos-connman-adapter, sleepd, activitymanager, dhcp-client, curl, webos-shutdownscripts, mojomail-imap, tzdata, bzip2, novacomd, mojomail-pop, core-apps, luna-sysservice, pmlogctl, libhunspell-1.3-0, luna-init, com.palm.app.browser, luna-sysmgr, keyboard-efigs, pmklogd, luna-systemui, sqlite3, libqtwebkit4, loadable-frameworks, icu, webkit-supplemental, webappmanager, ncurses, mojoservice-frameworks, luna-applauncher, browser-adapter, gzip, sysvinit-pidof, underscore, foundation-frameworks, bash, filecache, cpushareholder-stub, enyo-1.0, app-services, fbprogress, mojomail-smtp, openssl, e2fsprogs, nyx-modules, psmisc, mojolocation-stub, mojoservicelauncher, pmlogdaemon, iproute2, configurator, procps, binutils, librdx-stub
+Recommends: packagegroup-webos-extended-lic
+Provides: task-webos-extended, task-webos-core, packagegroup-webos-core
+Replaces: task-webos-extended, task-webos-core, packagegroup-webos-core
+Conflicts: task-webos-extended, task-webos-core, packagegroup-webos-core
+Source: None

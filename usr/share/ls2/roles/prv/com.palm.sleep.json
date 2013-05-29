@@ -1,0 +1,14 @@
+{
+    "role": {
+        "exeName":"/usr/sbin/sleepd",
+        "type": "privileged",
+        "allowedNames": ["com.palm.sleep"]
+    },
+    "permissions": [
+        {
+            "service":"com.palm.sleep",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+    ]
+}

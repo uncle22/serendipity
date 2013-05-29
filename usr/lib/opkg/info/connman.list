@@ -1,0 +1,7 @@
+/etc/dbus-1/system.d/connman.conf
+/etc/dbus-1/system.d/
+/etc/event.d/connman
+/etc/dbus-1/
+/etc/init.d/connman
+/etc/init.d/
+/usr/sbin/connmand

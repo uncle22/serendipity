@@ -1,0 +1,12 @@
+Package: crash-handler-lic
+Version: 0.6+gitr0+3633c18f924c3fc501b5f090ec9a760890002295-r0.2
+Description: Tim Bird's experimental crash_handler program.
+ Tim Bird's experimental crash_handler program.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0 & GPLv2+ & PD
+Architecture: cortexa8-vfp-neon
+OE: crash-handler
+Homepage: http://elinux.org/Crash_handler
+Source: git://github.com/webOS-ports/crash-handler;branch=master;protocol=git

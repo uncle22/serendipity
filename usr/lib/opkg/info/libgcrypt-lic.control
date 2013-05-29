@@ -1,0 +1,12 @@
+Package: libgcrypt-lic
+Version: 1.5.0-r4.1
+Description: libgcrypt version 1.5.0-r4
+ A general purpose cryptographic library based on the code from GnuPG
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2.1+
+Architecture: cortexa8-vfp-neon
+OE: libgcrypt
+Homepage: http://directory.fsf.org/project/libgcrypt/
+Source: ftp://ftp.gnupg.org/gcrypt/libgcrypt/libgcrypt-1.5.0.tar.gz file://add-pkgconfig-support.patch file://obsolete_automake_macros.patch

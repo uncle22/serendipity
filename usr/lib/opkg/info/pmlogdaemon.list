@@ -1,0 +1,4 @@
+/usr/share/PmLogDaemon/show_disk_usage.sh
+/usr/share/PmLogDaemon/
+/usr/sbin/PmLogDaemon
+/etc/event.d/PmLogDaemon

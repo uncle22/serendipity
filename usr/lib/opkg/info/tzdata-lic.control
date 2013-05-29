@@ -1,0 +1,12 @@
+Package: tzdata-lic
+Version: 2013b-r0.4
+Description: tzdata version 2013b-r0
+ Timezone data
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: PD
+Architecture: all
+OE: tzdata
+Homepage: ftp://elsie.nci.nih.gov/pub/
+Source: ftp://ftp.iana.org/tz/releases/tzdata2013b.tar.gz;name=tzdata

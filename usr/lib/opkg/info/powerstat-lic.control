@@ -1,0 +1,13 @@
+Package: powerstat-lic
+Version: 0.01.17-r0.2
+Description: Powerstat measures the power consumption of a laptop using the ACPI battery information.
+ Powerstat measures the power consumption of a laptop using the ACPI
+ battery information.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: powerstat
+Homepage: http://kernel.ubuntu.com/~cking/powerstat/
+Source: http://kernel.ubuntu.com/~cking/tarballs/powerstat/powerstat-0.01.17.tar.gz

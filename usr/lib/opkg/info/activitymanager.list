@@ -1,0 +1,9 @@
+/etc/palm/db/permissions/com.palm.activitymanager
+/etc/palm/db/permissions/
+/usr/sbin/activitymanager
+/etc/palm/db/kinds/com.palm.activity
+/usr/share/dbus-1/system-services/com.palm.activitymanager.service
+/usr/share/ls2/roles/prv/com.palm.activitymanager.json
+/etc/event.d/activitymanager
+/usr/share/dbus-1/services/com.palm.activitymanager.service
+/usr/share/ls2/roles/pub/com.palm.activitymanager.json

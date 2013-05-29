@@ -1,0 +1,12 @@
+Package: mojolocation-stub-lic
+Version: 2.0.0-2-r3.4
+Description: Location stub service
+ Location stub service
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: mojolocation-stub
+Homepage: unknown
+Source: git://github.com/openwebos/mojolocation-stub

@@ -1,0 +1,14 @@
+Package: luna-prefs
+Version: 2.0.0-1.01-r9.8
+Description: Open webOS preferences manager
+ Open webOS preferences manager
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-prefs
+Homepage: unknown
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), libcjson1 (>= 1.8.0-35), libc6 (>= 2.17)
+Recommends: luna-prefs-lic
+Source: git://github.com/openwebos/luna-prefs

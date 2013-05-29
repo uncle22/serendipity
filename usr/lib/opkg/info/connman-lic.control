@@ -1,0 +1,18 @@
+Package: connman-lic
+Version: 1.12-r20.0.2
+Description: A daemon for managing internet connections within embedded devices
+ The ConnMan project provides a daemon for managing internet connections
+ within embedded devices running the Linux operating system.  The
+ Connection Manager is designed to be slim and to use as few resources as
+ possible, so it can be easily integrated. It is a fully modular system
+ that can be extended, through plug-ins, to support all kinds of wired or
+ wireless technologies. Also, configuration methods, like DHCP and domain
+ name resolving, are implemented using plug-ins.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: connman
+Homepage: http://connman.net/
+Source: git://git.kernel.org/pub/scm/network/connman/connman.git file://0001-plugin.h-Change-visibility-to-default-for-debug-symb.patch file://add_xuser_dbus_permission.patch file://connman file://inet-fix-ip-cleanup-functions.patch file://add-in.h-for-ipv6.patch file://connman.upstart

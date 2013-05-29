@@ -1,0 +1,4 @@
+start on stopped finish
+
+exec /usr/sbin/org.webosinternals.service.upstartmgr
+respawn

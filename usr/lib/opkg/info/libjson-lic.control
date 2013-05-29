@@ -1,0 +1,12 @@
+Package: libjson-lic
+Version: 0.9-r0.4
+Description: libjson version 0.9-r0
+ JSON-C - A JSON implementation in C
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: libjson
+Homepage: http://oss.metaparadigm.com/json-c/
+Source: http://oss.metaparadigm.com/json-c/json-c-0.9.tar.gz

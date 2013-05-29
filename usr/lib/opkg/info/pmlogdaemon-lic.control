@@ -1,0 +1,12 @@
+Package: pmlogdaemon-lic
+Version: 2.0.0-102-r4.4
+Description: Open webos logging daemon
+ Open webos logging daemon
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmlogdaemon
+Homepage: unknown
+Source: git://github.com/openwebos/pmlogdaemon

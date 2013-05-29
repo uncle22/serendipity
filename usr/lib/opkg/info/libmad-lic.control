@@ -1,0 +1,12 @@
+Package: libmad-lic
+Version: 0.15.1b-r3.0
+Description: libmad version 0.15.1b-r3
+ MPEG Audio Decoder Library
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: libmad
+Homepage: http://sourceforge.net/projects/mad/
+Source: http://downloads.sourceforge.net/mad/libmad-0.15.1b.tar.gz file://no-force-mem.patch file://add-pkgconfig.patch file://fix_for_mips_with_gcc-4.5.0.patch file://obsolete_automake_macros.patch

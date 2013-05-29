@@ -1,0 +1,12 @@
+Package: libemail-common-lic
+Version: 2.0.0-99-r1.6
+Description: Common Email Service Library used by other email services
+ Common Email Service Library used by other email services
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: mojomail-common
+Homepage: unknown
+Source: git://github.com/openwebos/mojomail

@@ -1,0 +1,12 @@
+Package: db-lic
+Version: 4.8.30-r1.4
+Description: db version 4.8.30-r1
+ Berkeley DB v4.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Sleepycat
+Architecture: cortexa8-vfp-neon
+OE: db
+Homepage: http://www.sleepycat.com
+Source: http://download.oracle.com/berkeley-db/db-4.8.30.tar.gz

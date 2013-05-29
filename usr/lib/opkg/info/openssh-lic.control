@@ -1,0 +1,14 @@
+Package: openssh-lic
+Version: 6.1p1-r0.1
+Description: Secure rlogin/rsh/rcp/telnet replacement
+ Secure rlogin/rsh/rcp/telnet replacement (OpenSSH) Ssh (Secure Shell) is
+ a program for logging into a remote machine and for executing commands on
+ a remote machine.
+Section: console/network
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD
+Architecture: cortexa8-vfp-neon
+OE: openssh
+Homepage: http://openssh.org
+Source: ftp://ftp.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-6.1p1.tar.gz file://nostrip.patch file://sshd_config file://ssh_config file://init file://openssh-CVE-2011-4327.patch

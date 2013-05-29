@@ -1,0 +1,5 @@
+/etc/event.d/configurator
+/etc/event.d/configurator-async
+/usr/share/dbus-1/system-services/com.palm.configurator.service
+/usr/sbin/configurator
+/usr/share/ls2/roles/prv/com.palm.configurator.json

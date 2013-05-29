@@ -1,0 +1,15 @@
+Package: samsung-tuna-firmware
+Version: 4.1.2-r6.4
+Description: samsung-tuna-firmware version 4.1.2-r6
+ Properitary firmware binaries needed for the Samsung Galaxy Nexus
+ smartphone
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Properitary
+Architecture: tuna
+OE: samsung-tuna-firmware
+Homepage: unknown
+Depends: bcm4330-firmware
+Recommends: samsung-tuna-firmware-lic
+Source: https://dl.google.com/dl/android/aosp/broadcom-maguro-jzo54k-8b0d7637.tgz;name=brcm git://android.googlesource.com/platform/hardware/ti/omap4xxx;tag=android-4.1.2_r1;protocol=https;destsuffix=git/hardware_ti_omap4xxx git://android.googlesource.com/device/samsung/tuna;tag=android-4.1.2_r1;protocol=https;destsuffix=git/device_samsung_tuna

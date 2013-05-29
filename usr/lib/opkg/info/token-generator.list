@@ -1,0 +1,3 @@
+/etc/rcS.d/
+/etc/rcS.d/S65token-generator.sh
+/etc/init.d/token-generator.sh

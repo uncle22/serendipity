@@ -1,0 +1,17 @@
+Package: libreadline-lic
+Version: 6.2-r4.5
+Description: readline version 6.2-r4
+ The GNU Readline library provides a set of functions for use by
+ applications that allow users to edit command lines as they are typed in.
+ Both Emacs and vi editing modes are available. The Readline library
+ includes  additional functions to maintain a list of previously-entered
+ command lines, to recall and perhaps reedit those   lines, and perform
+ csh-like history expansion on previous commands.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv3+
+Architecture: cortexa8-vfp-neon
+OE: readline
+Homepage: unknown
+Source: ftp://ftp.gnu.org/gnu/readline/readline-6.2.tar.gz;name=archive file://configure-fix.patch file://norpath.patch file://acinclude.m4 ftp://ftp.gnu.org/gnu/readline/readline-6.2-patches/readline62-001;name=patch1;apply=yes;striplevel=0 ftp://ftp.gnu.org/gnu/readline/readline-6.2-patches/readline62-002;name=patch2;apply=yes;striplevel=0 ftp://ftp.gnu.org/gnu/readline/readline-6.2-patches/readline62-003;name=patch3;apply=yes;striplevel=0 ftp://ftp.gnu.org/gnu/readline/readline-6.2-patches/readline62-004;name=patch4;apply=yes;striplevel=0

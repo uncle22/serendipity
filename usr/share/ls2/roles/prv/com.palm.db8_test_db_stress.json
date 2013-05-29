@@ -1,0 +1,14 @@
+{
+    "role": {
+        "exeName":"/usr/lib/db8/tests/test_db_stress",
+        "type": "regular",
+        "allowedNames": ["*"]
+    },
+    "permissions": [
+        {
+            "service":"ConcurrentTest1",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+    ]
+}

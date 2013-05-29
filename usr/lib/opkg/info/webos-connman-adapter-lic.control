@@ -1,0 +1,12 @@
+Package: webos-connman-adapter-lic
+Version: 1.0.0-9-r2.8
+Description: webos-connman-adapter version 1.0.0-9-r2
+ Open webOS component for managing network connections using connman
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: webos-connman-adapter
+Homepage: unknown
+Source: git://github.com/openwebos/webos-connman-adapter file://0001-Don-t-treat-none-as-security-type.patch

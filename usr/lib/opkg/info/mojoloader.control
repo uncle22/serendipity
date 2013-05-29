@@ -1,0 +1,13 @@
+Package: mojoloader
+Version: 1.0-9-r5.4
+Description: JavaScript loader for foundation frameworks and other loadable libraries
+ JavaScript loader for foundation frameworks and other loadable libraries
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: mojoloader
+Homepage: unknown
+Recommends: mojoloader-lic
+Source: git://github.com/openwebos/mojoloader

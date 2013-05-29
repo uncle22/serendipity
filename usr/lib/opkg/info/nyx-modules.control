@@ -1,0 +1,14 @@
+Package: nyx-modules
+Version: 5.1.0-88+wop+gitr3+db6efebd51dc726df7c9bff915bb0ad58765d70c-r8.0
+Description: webOS portability layer - device-specific modules
+ webOS portability layer - device-specific modules
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: nyx-modules
+Homepage: unknown
+Depends: lsb, mtdev (>= 1.1.2), libudev0 (>= 182), libnyx5 (>= 5.1.0-66), libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: nyx-modules-lic
+Source: git://github.com/webOS-ports/nyx-modules;branch=webOS-ports/master

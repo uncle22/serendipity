@@ -1,0 +1,14 @@
+Package: packagegroup-webos-ports-extended
+Version: 1.0-r25.0
+Description: packagegroup-webos-ports-extended version 1.0-r25
+ Basic set of components use by the webOS ports project
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: packagegroup-webos-ports-extended
+Homepage: unknown
+Depends: org.webosinternals.service.upstartmgr, gst-meta-base, packagegroup-webos-telephony, webos-connman-adapter, pulseaudio-misc, org.webosinternals.service.update, android-system-image-tuna, android-audiosystem, pulseaudio-server, org.webosinternals.ipkgservice, token-generator, gst-meta-video, org.webosports.app.settings, org.webosinternals.preware, org.webosports.app.memos, wireless-tools, gst-plugins-ugly-lame, org.webosports.service.licenses, ca-certificates, distro-feed-configs, org.webosports.app.calendar, gst-plugins-good-pulse, crash-handler, android-system-compat, gst-meta-audio, bluez4, gst-plugins-ugly-mad, org.webosports.app.firstuse
+Recommends: packagegroup-webos-ports-extended-lic
+Source: None

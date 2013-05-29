@@ -1,0 +1,12 @@
+Package: ca-certificates-lic
+Version: 20130119-r3.4
+Description: ca-certificates version 20130119-r3
+ Common CA certificates
+Section: misc
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: all
+OE: ca-certificates
+Homepage: http://packages.debian.org/sid/ca-certificates
+Source: ftp://ftp.debian.org/debian/pool/main/c/ca-certificates/ca-certificates_20130119.tar.gz file://0001-update-ca-certificates-remove-c-rehash.patch file://0002-update-ca-certificates-use-SYSROOT.patch

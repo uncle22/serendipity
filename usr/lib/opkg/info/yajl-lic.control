@@ -1,0 +1,13 @@
+Package: yajl-lic
+Version: 1.0.12-r0.5
+Description: yajl version 1.0.12-r0
+ Yet Another JSON Library - A Portable JSON parsing and serialization
+ library in ANSI C
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: yajl
+Homepage: unknown
+Source: git://github.com/lloyd/yajl

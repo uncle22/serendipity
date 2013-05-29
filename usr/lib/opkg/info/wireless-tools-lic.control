@@ -1,0 +1,12 @@
+Package: wireless-tools-lic
+Version: 1:29-r4.2
+Description: wireless-tools version 29-r4
+ Tools for the Linux Standard Wireless Extension Subsystem
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2 & (LGPLv2.1 | MPL-1.1 | BSD)
+Architecture: cortexa8-vfp-neon
+OE: wireless-tools
+Homepage: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html
+Source: http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/wireless_tools.29.tar.gz file://remove.ldconfig.call.patch file://man.patch file://wireless-tools.if-pre-up file://zzz-wireless.if-pre-up file://avoid_strip.patch file://ldflags.patch

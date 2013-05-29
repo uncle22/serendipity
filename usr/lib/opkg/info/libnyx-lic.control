@@ -1,0 +1,12 @@
+Package: libnyx-lic
+Version: 5.1.0-66-r6.5
+Description: Open webOS portability layer - library
+ Open webOS portability layer - library
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: nyx-lib
+Homepage: unknown
+Source: git://github.com/openwebos/nyx-lib

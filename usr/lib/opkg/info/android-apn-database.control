@@ -1,0 +1,13 @@
+Package: android-apn-database
+Version: 4.2.2+gitr0+10fa2dc40b8e37409bec84267628df8c19838b99-r0.4
+Description: android-apn-database version 4.2.2+gitrAUTOINC+10fa2dc40b8e37409bec84267628df8c19838b99-r0
+ Android APN Database
+Section: network
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: android-apn-database
+Homepage: unknown
+Recommends: android-apn-database-lic
+Source: git://android.googlesource.com/device/sample;protocol=https;branch=master

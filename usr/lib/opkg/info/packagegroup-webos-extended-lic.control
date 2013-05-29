@@ -1,0 +1,12 @@
+Package: packagegroup-webos-extended-lic
+Version: 1.0-r19.5
+Description: packagegroup-webos-extended version 1.0-r19
+ meta-webos components used in Open webOS
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: packagegroup-webos-extended
+Homepage: unknown
+Source: None

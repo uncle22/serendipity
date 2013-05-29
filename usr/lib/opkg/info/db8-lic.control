@@ -1,0 +1,12 @@
+Package: db8-lic
+Version: 2.0.0-67-r11.0
+Description: A userspace service that provides access to the Open webOS database
+ A userspace service that provides access to the Open webOS database
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: db8
+Homepage: unknown
+Source: git://github.com/openwebos/db8

@@ -1,0 +1,15 @@
+Package: opkg
+Version: 1:0.1.8+svnr649-r16.0.4
+Description: opkg version 0.1.8+svnr649-r16.0
+ Open Package Manager
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: opkg
+Homepage: http://code.google.com/p/opkg/
+Depends: opkg-config-base, update-alternatives-cworth, libopkg1 (>= 0.1.8+svnr649), libc6 (>= 2.17)
+Recommends: opkg-lic
+Replaces: opkg-nogpg
+Source: svn://opkg.googlecode.com/svn;module=trunk;protocol=http file://obsolete_automake_macros.patch

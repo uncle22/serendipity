@@ -1,0 +1,13 @@
+Package: underscore-lic
+Version: 0.6.0-8-r5.4
+Description: The underscore.js utility-belt library for JavaScript made into an Open webOS loadable framework
+ The underscore.js utility-belt library for JavaScript made into an Open
+ webOS loadable framework
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: underscore
+Homepage: unknown
+Source: git://github.com/openwebos/underscore

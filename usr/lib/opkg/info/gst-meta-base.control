@@ -1,0 +1,14 @@
+Package: gst-meta-base
+Version: 0.10-r13.9
+Description: gst-meta-base version 0.10-r13
+ Gstreamer package groups
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: gst-meta-base
+Homepage: unknown
+Depends: gst-plugins-base-gio, gst-plugins-base-volume, gst-plugins-base-audioresample, gst-plugins-base-videoscale, gstreamer, gst-plugins-base-typefindfunctions, gst-plugins-good-autodetect, gst-plugins-base-audioconvert, gst-plugins-base-decodebin2, gst-plugins-good-souphttpsrc, gst-plugins-base-decodebin, gst-plugins-base-alsa, gst-plugins-base-playbin, gst-plugins-base-ffmpegcolorspace
+Recommends: gst-meta-base-lic
+Source: None

@@ -1,0 +1,11 @@
+/usr/bin/jslauncher
+/usr/palm/frameworks/private/
+/usr/palm/services/jsservicelauncher/sources.json
+/usr/palm/services/jsservicelauncher/palm_bus_config.json
+/usr/bin/node_spawner
+/usr/palm/nodejs/fork_server.js
+/usr/palm/services/jsservicelauncher/
+/usr/palm/services/jsservicelauncher/bootstrap-node.js
+/usr/bin/run-js-service
+/usr/palm/frameworks/private/javascripts/
+/etc/event.d/node_fork_server

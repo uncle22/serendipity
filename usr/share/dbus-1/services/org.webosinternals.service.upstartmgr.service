@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.webosinternals.service.upstartmgr
+Exec=/usr/sbin/org.webosinternals.service.upstartmgr

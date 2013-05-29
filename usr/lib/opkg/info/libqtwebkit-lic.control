@@ -1,0 +1,12 @@
+Package: libqtwebkit-lic
+Version: 1.3-0.54-r13.4
+Description: Open webOS edition of the WebKit web rendering engine
+ Open webOS edition of the WebKit web rendering engine
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2.1
+Architecture: tuna
+OE: webkit-webos
+Homepage: unknown
+Source: https://github.com/downloads/isis-project/WebKit/WebKit_0.54s.zip file://0001-Build-fix-with-newer-bison-2.6.patch file://remove-empty-soname-arg.patch file://fullscreenvideowidget-remove-cursor-use.patch

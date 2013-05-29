@@ -1,0 +1,12 @@
+Package: org.webosports.app.firstuse-lic
+Version: 0.2.0+gitr0+35825a101aebfc912f9102e758ab6c5f7e9f66f7-r0.4
+Description: webOS Ports First Use application
+ webOS Ports First Use application
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: org.webosports.app.firstuse
+Homepage: unknown
+Source: git://github.com/webOS-ports/org.webosports.app.firstuse;protocol=git;branch=master

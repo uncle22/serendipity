@@ -1,0 +1,6 @@
+#!/bin/sh
+	update-alternatives --remove  reboot /sbin/reboot.upstart
+	update-alternatives --remove  halt /sbin/halt.upstart
+	update-alternatives --remove  poweroff /sbin/poweroff.upstart
+	update-alternatives --remove  shutdown /sbin/shutdown.upstart
+	update-alternatives --remove  telinit /sbin/telinit.upstart

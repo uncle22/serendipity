@@ -1,0 +1,12 @@
+Package: browserserver-lic
+Version: 3.0.0-0.7.2+wop+gitr0+58ec890291dfa1a927faba069f8b0f1d8ac94e2d-r9.8
+Description: Web rendering daemon for the isis-browser
+ Web rendering daemon for the isis-browser
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: browserserver
+Homepage: unknown
+Source: git://github.com/webOS-ports/BrowserServer;branch=webOS-ports/master

@@ -1,0 +1,14 @@
+Package: webos-telephonyd
+Version: 0.1.0+gitr1+c9e3c1b478186b95a401aa4822c49575dd6b152e-r0.0
+Description: Open webOS Telephony daemon
+ Open webOS Telephony daemon
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: webos-telephonyd
+Homepage: unknown
+Depends: libglib-2.0-0 (>= 2.34.3), luna-prefs (>= 2.0.0-1.01), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libpbnjson (>= 1.3.0-10)
+Recommends: webos-telephonyd-lic
+Source: git://github.com/webOS-ports/webos-telephonyd;branch=master;protocol=git

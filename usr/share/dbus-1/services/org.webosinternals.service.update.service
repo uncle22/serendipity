@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.webosinternals.service.update
+Exec=/usr/sbin/org.webosinternals.service.update
+Type=static

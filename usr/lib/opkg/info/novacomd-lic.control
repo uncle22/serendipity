@@ -1,0 +1,12 @@
+Package: novacomd-lic
+Version: 2.0.0-123-r0.4
+Description: NovaCOMd -- Daemon for NovaCOM (device and host)
+ NovaCOMd -- Daemon for NovaCOM (device and host)
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: novacomd
+Homepage: unknown
+Source: git://github.com/openwebos/novacomd

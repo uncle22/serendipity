@@ -1,0 +1,12 @@
+Package: liblunasysmgrcommon-lic
+Version: 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3-r4.8
+Description: Library containing common parts of luna-sysmgr and webappmanager
+ Library containing common parts of luna-sysmgr and webappmanager
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-sysmgr-common
+Homepage: unknown
+Source: git://github.com/webOS-ports/luna-sysmgr-common;branch=webOS-ports/master

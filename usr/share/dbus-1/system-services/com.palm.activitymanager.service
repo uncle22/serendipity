@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.palm.activitymanager
+Exec=/usr/sbin/activitymanager
+Type=static

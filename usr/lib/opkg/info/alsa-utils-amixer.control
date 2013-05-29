@@ -1,0 +1,13 @@
+Package: alsa-utils-amixer
+Version: 1.0.26-r0.5
+Description: alsa-utils version 1.0.26-r0
+ command-line based control for ALSA mixer and settings
+Section: console/utils
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: alsa-utils
+Homepage: http://www.alsa-project.org
+Depends: libasound2 (>= 1.0.26), libc6 (>= 2.17)
+Source: ftp://ftp.alsa-project.org/pub/utils/alsa-utils-1.0.26.tar.bz2 file://uclibc-exp10-replacement.patch file://0001-alsactl-don-t-let-systemd-unit-restore-the-volume-wh.patch file://obsolete_automake_macros.patch

@@ -1,0 +1,14 @@
+Package: libqtwebkit4
+Version: 1.3-0.54-r13.4
+Description: Open webOS edition of the WebKit web rendering engine
+ Open webOS edition of the WebKit web rendering engine
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2.1
+Architecture: tuna
+OE: webkit-webos
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), qt4-webos (>= 4.8.3-4), libgstpbutils-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libz1 (>= 1.2.7), libgstapp-0.10-0 (>= 0.10.36)
+Recommends: libqtwebkit-lic
+Source: https://github.com/downloads/isis-project/WebKit/WebKit_0.54s.zip file://0001-Build-fix-with-newer-bison-2.6.patch file://remove-empty-soname-arg.patch file://fullscreenvideowidget-remove-cursor-use.patch

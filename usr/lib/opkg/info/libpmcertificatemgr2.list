@@ -1,0 +1,6 @@
+/usr/lib/ssl/private
+/etc/ssl/openssl.cnf
+/usr/lib/libPmCertificateMgr.so.2.0.0
+/usr/lib/ssl/certs
+/usr/lib/libPmCertificateMgr.so.2
+/usr/lib/ssl/openssl.cnf.pmcertificatemgr

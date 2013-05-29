@@ -1,0 +1,13 @@
+Package: foundation-frameworks
+Version: 1.0-1.0.1-r4.4
+Description: Loadable foundation frameworks for apps and services
+ Loadable foundation frameworks for apps and services
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: foundation-frameworks
+Homepage: unknown
+Recommends: foundation-frameworks-lic
+Source: git://github.com/openwebos/foundation-frameworks

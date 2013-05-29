@@ -1,0 +1,12 @@
+Package: qt-webos-plugin-lic
+Version: 0.1.0+gitr0+b2e832dc6dbca6e3c81496ccf6775b6496e55ebd-r1.8
+Description: Qt QPA plugin for Open webOS offscreen rendering
+ Qt QPA plugin for Open webOS offscreen rendering
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: qt-webos-plugin
+Homepage: unknown
+Source: git://github.com/webOS-ports/qt-webos-plugin;branch=master;protocol=git

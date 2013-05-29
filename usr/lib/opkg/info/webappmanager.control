@@ -1,0 +1,14 @@
+Package: webappmanager
+Version: 3.0.0-3+wop+gitr0+591367d418e96bc19c5250d7fbb1146919f21a50-r9.7
+Description: WebAppMgr is responsible for running Enyo applications on webOS
+ WebAppMgr is responsible for running Enyo applications on webOS
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: webappmanager
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), ptmalloc3, qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), libqtwebkit4 (>= 1.3-0.54), qt-webos-plugin, liblunasysmgripc2 (>= 2.0.0-1.01), librolegen2 (>= 2.0.0-16), luna-service2 (>= 3.3.0-149), luna-prefs (>= 2.0.0-1.01), libsqlite3-0 (>= 3071502), liblunasysmgrcommon1 (>= 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3), libcjson1 (>= 1.8.0-35), libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), util-linux, libpmloglib3 (>= 3.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: webappmanager-lic
+Source: git://github.com/webOS-ports/webappmanager;branch=webOS-ports/master

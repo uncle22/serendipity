@@ -1,0 +1,5 @@
+#!/bin/sh
+	update-alternatives --install /usr/lib/ssl/openssl.cnf openssl-cnf /usr/lib/ssl/openssl.cnf.pmcertificatemgr 10
+if [ x"$D" = "x" ]; then
+	if [ -x /sbin/ldconfig ]; then /sbin/ldconfig ; fi
+fi

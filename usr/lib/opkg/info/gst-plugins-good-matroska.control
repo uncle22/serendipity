@@ -1,0 +1,13 @@
+Package: gst-plugins-good-matroska
+Version: 0.10.31-r8.9
+Description: gst-plugins-good version 0.10.31-r8
+ GStreamer plugin for matroska
+Section: multimedia
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2.1+
+Architecture: cortexa8-vfp-neon
+OE: gst-plugins-good
+Homepage: http://gstreamer.freedesktop.org/
+Depends: libgstriff-0.10-0 (>= 0.10.36), libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libbz2-0 (>= 1.0.6)
+Source: http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-0.10.31.tar.bz2 file://0001-v4l2-fix-build-with-recent-kernels-the-v4l2_buffer-i.patch

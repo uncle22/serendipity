@@ -1,0 +1,14 @@
+Package: tzdata
+Version: 2013b-r0.4
+Description: tzdata version 2013b-r0
+ Timezone data
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: PD
+Architecture: all
+OE: tzdata
+Homepage: ftp://elsie.nci.nih.gov/pub/
+Recommends: tzdata-lic
+Conflicts: timezone-asia, timezone-europe, timezone-iso3166.tab, timezone-america, timezones, timezone-zone.tab, timezone-pacific, timezone-atlantic, timezone-antarctica, timezone-arctic, timezone-africa, timezone-indian, timezone-australia
+Source: ftp://ftp.iana.org/tz/releases/tzdata2013b.tar.gz;name=tzdata

@@ -1,0 +1,14 @@
+{
+    "role": {
+        "exeName":"/usr/sbin/org.webosinternals.service.upstartmgr",
+        "type": "privileged",
+        "allowedNames": ["org.webosinternals.service.upstartmgr"]
+    },
+    "permissions": [
+        {
+            "service":"org.webosinternals.service.upstartmgr",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+    ]
+}

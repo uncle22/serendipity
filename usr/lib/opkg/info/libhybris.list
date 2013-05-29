@@ -1,0 +1,15 @@
+/usr/lib/libhardware.so.2.0.0
+/usr/lib/libhardware.so.2
+/usr/bin/test_sensors
+/usr/bin/test_ui
+/usr/bin/test_lights
+/usr/lib/libGLESv2.so.2.0.0
+/usr/bin/test_egl
+/usr/bin/test_glesv2
+/usr/lib/libhybris-common.so.1.0.0
+/usr/lib/libEGL.so.1
+/usr/lib/libhybris-common.so.1
+/usr/lib/libEGL.so.1.0.0
+/usr/lib/libui.so.1.0.0
+/usr/lib/libui.so.1
+/usr/lib/libGLESv2.so.2

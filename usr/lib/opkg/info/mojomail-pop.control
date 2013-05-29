@@ -1,0 +1,14 @@
+Package: mojomail-pop
+Version: 2.0.0-99-r3.5
+Description: POP3 email transport service for Open webOS
+ POP3 email transport service for Open webOS
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: mojomail-pop
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libemail-common2 (>= 2.0.0-99)
+Recommends: mojomail-pop-lic
+Source: git://github.com/openwebos/mojomail

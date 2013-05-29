@@ -1,0 +1,14 @@
+Package: libcares2
+Version: 1.9.1-r1.4
+Description: c-ares version 1.9.1-r1
+ c-ares is a C library that resolves names asynchronously.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: c-ares
+Homepage: http://daniel.haxx.se/projects/c-ares/
+Depends: libc6 (>= 2.17)
+Recommends: libcares-lic
+Source: http://c-ares.haxx.se/download/c-ares-1.9.1.tar.gz

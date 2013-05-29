@@ -1,0 +1,12 @@
+Package: qt-palm-plugin-lic
+Version: 0.1.0+gitr0+018fb325af82b825ab1c9c6be7f1e016a7ca3a7e-r1.7
+Description: Qt QPA plugin for Open webOS rendering
+ Qt QPA plugin for Open webOS rendering
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: qt-palm-plugin
+Homepage: unknown
+Source: git://github.com/webOS-ports/qt-palm-plugin;branch=master;protocol=git

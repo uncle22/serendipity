@@ -1,0 +1,4645 @@
+Package: shadow-securetty
+Version: 4.1.4.3-r3.5
+Recommends: shadow-securetty-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: glibmm-lic
+Version: 2.28.2-r3.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: libhunspell-1.3-0
+Version: 1.3.2-r1.2
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libhunspell-1.3-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: luna-service2
+Version: 3.3.0-149-r9.4
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2, libcjson1 (>= 1.8.0-35), libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: luna-service2-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: initscripts-lic
+Version: 1.0-r148.6
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: org.webosports.app.testr-lic
+Version: 0.1.0+gitr0+fd156a1dbd81dff8930760139afdfb5b8c9b6989-r0.0
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: libbz2-0
+Version: 1.0.6-r6.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: libpmcertificatemgr-lic
+Version: 2.0.0-27-r4.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: sqlite3
+Version: 3071502-r2.1
+Depends: libreadline6 (>= 6.2), libsqlite3-0 (>= 3071502), libc6 (>= 2.17)
+Recommends: sqlite3-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414224
+Auto-Installed: yes
+
+Package: yajl
+Version: 1.0.12-r0.5
+Depends: libc6 (>= 2.17)
+Recommends: yajl-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: org.webosports.service.licenses
+Version: 0.1.0+gitr0+16b9eac8620944af04547234520f1a9f39b0bb62-r0.4
+Depends: luna-service2
+Recommends: org.webosports.service.licenses-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: mojomail-imap-lic
+Version: 2.0.0-99-r3.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: libqtwebkit4
+Version: 1.3-0.54-r13.4
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), qt4-webos (>= 4.8.3-4), libgstpbutils-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libz1 (>= 1.2.7), libgstapp-0.10-0 (>= 0.10.36)
+Recommends: libqtwebkit-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414201
+Auto-Installed: yes
+
+Package: upstart-lic
+Version: 0.3.11-r11.0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: busybox-syslog
+Version: 1.20.2-r9.4
+Depends: update-alternatives-cworth
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/syslog-startup.conf.busybox 638acd6813015513fbd0c91d5918be4e
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: libtheora
+Version: 1.1.1-r1.2
+Depends: libgcc1 (>= 4.7.2), libogg0 (>= 1.3.0), libc6 (>= 2.17)
+Recommends: libtheora-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: base-passwd-lic
+Version: 3.5.26-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: icu-lic
+Version: 50.1.2-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: python-shell
+Version: 2.7.3-r0.3.5
+Depends: python-core, python-re
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: pulseaudio-module-role-cork
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: org.webosinternals.service.upstartmgr
+Version: 0.1.0+git0+ba7941c5ca2c3c13f8b149dc998354174d8241f9-r0.5
+Depends: libglib-2.0-0 (>= 2.34.3), libmjson0 (>= 1.0.1), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17)
+Recommends: org.webosinternals.service.upstartmgr-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: android-apn-database
+Version: 4.2.2+gitr0+10fa2dc40b8e37409bec84267628df8c19838b99-r0.4
+Recommends: android-apn-database-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414169
+Auto-Installed: yes
+
+Package: libc6
+Version: 2.17-r3.4
+Recommends: eglibc-lic
+Provides: rtld(GNU_HASH), glibc
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: libgpg-error-lic
+Version: 1.11-r0.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: opkg
+Version: 1:0.1.8+svnr649-r16.0.4
+Depends: opkg-config-base, update-alternatives-cworth, libopkg1 (>= 0.1.8+svnr649), libc6 (>= 2.17)
+Recommends: opkg-lic
+Replaces: opkg-nogpg
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+
+Package: python-readline
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libreadline6 (>= 6.2), libncursesw5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: libcares2
+Version: 1.9.1-r1.4
+Depends: libc6 (>= 2.17)
+Recommends: libcares-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: pulseaudio-module-switch-on-port-available
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: pulseaudio-module-intended-roles
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: util-linux-mkfs
+Version: 2.22.2-r3.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: underscore
+Version: 0.6.0-8-r5.4
+Recommends: underscore-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: crash-handler
+Version: 0.6+gitr0+3633c18f924c3fc501b5f090ec9a760890002295-r0.2
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: crash-handler-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: pulseaudio-module-device-restore
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), pulseaudio-lib-protocol-native (>= 3.0), libpulsecore (>= 3.0), speex (>= 1.2rc1), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: libcom-err2
+Version: 1.42.7-r1.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: python-codecs
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), python-lang, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: serial-forward
+Version: 1:1.1+gitr0+2725c6c18cace2acaf4f20c0748300dcea4dd90c-r0.2
+Depends: libc6 (>= 2.17)
+Recommends: serial-forward-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: org.webosports.app.calendar
+Version: 0.0.1+gitr0+5c1db766ce0ce50929010f787ea995539f66d2a3-r1.4
+Depends: cordova
+Recommends: org.webosports.app.calendar-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: android-audiosystem
+Version: 1.8+bzr43-r3.0
+Depends: libgcc1 (>= 4.7.2), libasound2 (>= 1.0.26), libz1 (>= 1.2.7), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: android-audiosystem-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/asound.conf dc100c0979c272b557877b78aca92ce9
+Installed-Time: 1369414169
+Auto-Installed: yes
+
+Package: busybox
+Version: 1.20.2-r9.4
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: update-rc.d, busybox-syslog, busybox-udhcpc, busybox-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: gst-plugins-good-souphttpsrc
+Version: 0.10.31-r8.9
+Depends: gstreamer (>= 0.10.36), libsoup-2.4-1 (>= 2.40.2), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: psmisc
+Version: 22.20-r1.2
+Depends: fuser, pstree, killall
+Recommends: psmisc-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: makedevs
+Version: 1.0.0-r7.2
+Depends: libc6 (>= 2.17)
+Recommends: makedevs-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: util-linux-umount
+Version: 2.22.2-r3.4
+Depends: libmount1 (>= 2.22.2), update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: libvorbis-lic
+Version: 1.3.3-r1.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: pulseaudio-lib-protocol-native
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: pulseaudio-module-native-protocol-unix
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), pulseaudio-lib-protocol-native (>= 3.0), libpulsecore (>= 3.0), speex (>= 1.2rc1), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: gst-plugins-good
+Version: 0.10.31-r8.9
+Recommends: gst-plugins-good-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: pulseaudio-module-detect
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: libssl1.0.0
+Version: 1.0.1e-r21.0.4
+Depends: libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: packagegroup-core-ssh-openssh
+Version: 1.0-r1.4
+Depends: openssh
+Recommends: packagegroup-core-ssh-openssh-lic
+Provides: task-core-ssh-openssh
+Replaces: task-core-ssh-openssh
+Conflicts: task-core-ssh-openssh
+Status: install user installed
+Architecture: all
+Installed-Time: 1369414189
+
+Package: liblunasysmgripc2
+Version: 2.0.0-1.01-r3.5
+Depends: libglib-2.0-0 (>= 2.34.3), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: liblunasysmgripc-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414215
+Auto-Installed: yes
+
+Package: opkg-config-base
+Version: 1.0-r1.6
+Recommends: opkg-config-base-lic
+Status: install ok installed
+Architecture: tuna
+Conffiles:
+ /etc/opkg/arch.conf 6adc737972fb36a3aef98428848777de
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: mojoservicelauncher-lic
+Version: 2.0.0-71-r5.3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: bash-lic
+Version: 4.2-r7.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: libtasn1-lic
+Version: 2.14-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: libpulsecore
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libsamplerate0 (>= 0.1.8), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libgcc1 (>= 4.7.2), libpulse0 (>= 3.0), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: binutils
+Version: 2.23.1-r3.1
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: binutils-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414239
+Auto-Installed: yes
+
+Package: librdx-lic
+Version: 2.0.0-9-r4.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: packagegroup-webos-upstart-lic
+Version: 1.0-r5.2
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: libpalmsocket-lic
+Version: 2.0.0-30-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: libnl-3-200
+Version: 1:3.2.21-r0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libnl-3-lic
+Replaces: libnl2
+Conflicts: libnl2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: org.webosinternals.ipkgservice
+Version: 2.0.0+git0+65cb032e6d61a3190ff58bc76b485d4ccf864702-r1.5
+Depends: libglib-2.0-0 (>= 2.34.3), libmjson0 (>= 1.0.1), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17)
+Recommends: org.webosinternals.ipkgservice-lic
+Status: install ok unpacked
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: webos-shutdownscripts
+Version: 2.1.0-36-r1.4
+Recommends: webos-shutdownscripts-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: gst-plugins-base-videoscale
+Version: 0.10.36-r7.4
+Depends: libffi6 (>= 3.0.11), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: python-lang
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414157
+Auto-Installed: yes
+
+Package: libgcrypt11
+Version: 1.5.0-r4.1
+Depends: libcap2 (>= 2.22), libgpg-error0 (>= 1.11), libc6 (>= 2.17)
+Recommends: libgcrypt-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: libpmloglib-lic
+Version: 3.0.0-27-r3.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: webkit-supplemental-lic
+Version: 2.0.0-0.5-r7.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: kbd-lic
+Version: 1.15.2-r4.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: libgnutls-lic
+Version: 2.12.21-r8.4.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: openssh-ssh
+Version: 6.1p1-r0.1
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), update-alternatives-cworth, libz1 (>= 1.2.7), libc6 (>= 2.17)
+Provides: ssh
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/ssh/ssh_config 9fe60f33aaf449c355194b367234230c
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: bash
+Version: 4.2-r7.4
+Depends: libgcc1 (>= 4.7.2), libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Recommends: bash-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: libusb-0.1-4
+Version: 1:0.1.4-r1.5
+Depends: libusb-1.0-0 (>= 1.0.9), libc6 (>= 2.17)
+Recommends: libusb-0.1-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: openssh
+Version: 6.1p1-r0.1
+Depends: openssh-scp, openssh-ssh, openssh-keygen, openssh-sshd
+Recommends: update-rc.d, openssh-lic
+Conflicts: dropbear
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: libreadline-lic
+Version: 6.2-r4.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: loadable-frameworks
+Version: 1.0-1.0.1-r4.4
+Recommends: loadable-frameworks-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: strace
+Version: 4.7-r4.2
+Depends: libc6 (>= 2.17)
+Recommends: strace-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: alsa-states
+Version: 0.2.0-r3.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libffi6
+Version: 3.0.11-r1.1
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libffi-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: openssl
+Version: 1.0.1e-r21.0.4
+Depends: libssl1.0.0 (>= 1.0.1e), update-alternatives-cworth, libc6 (>= 2.17), libcrypto1.0.0 (>= 1.0.1e)
+Recommends: openssl-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: packagegroup-webos-upstart
+Version: 1.0-r5.2
+Depends: android-initscripts-upstart, ofono-upstart, pulseaudio-upstart
+Recommends: packagegroup-webos-upstart-lic
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414164
+
+Package: dbus-1
+Version: 1.6.8-r6.0.5
+Depends: base-passwd, shadow, libexpat1 (>= 2.1.0), libdbus-1-3 (>= 1.6.8), libc6 (>= 2.17)
+Recommends: update-rc.d, dbus-lic
+Provides: dbus-x11
+Replaces: dbus-x11
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/dbus-1/system.conf 121a57a9ef97cd7cfb1e0a1ebe7dc60e
+ /etc/dbus-1/session.conf 3ec4497bcff6f8e1445db64b23bda595
+Installed-Time: 1369414169
+Auto-Installed: yes
+
+Package: libhybris-lic
+Version: 1:0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: android-apn-database-lic
+Version: 4.2.2+gitr0+10fa2dc40b8e37409bec84267628df8c19838b99-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: token-generator
+Version: 1.0-r1.4
+Recommends: token-generator-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: libmp3lame0
+Version: 3.99.5-r1.0
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: eglibc-locale-en-gb
+Version: 2.17-r0.2
+Recommends: virtual-locale-en-gb
+Provides: eglibc-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414295
+
+Package: liburiparser-lic
+Version: 0.7.7-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: modutils-initscripts
+Version: 1.0-r6.2
+Recommends: update-rc.d, modutils-initscripts-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: pulseaudio-module-alsa-source
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), pulseaudio-lib-alsa-util (>= 3.0), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libpulsecore (>= 3.0), libsndfile1 (>= 1.0.25), speex (>= 1.2rc1), libc6 (>= 2.17), libasound2 (>= 1.0.26), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: evtest
+Version: 1.25-r0.2
+Depends: libxml2 (>= 2.9.0), libc6 (>= 2.17)
+Recommends: evtest-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libpalmsocket2
+Version: 2.0.0-30-r2.5
+Depends: libssl1.0.0 (>= 1.0.1e), libcrypto1.0.0 (>= 1.0.1e), libcares2 (>= 1.9.1), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmloglib3 (>= 3.0.0-27)
+Recommends: libpalmsocket-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: org.webosports.app.testr
+Version: 0.1.0+gitr0+fd156a1dbd81dff8930760139afdfb5b8c9b6989-r0.0
+Depends: cordova
+Recommends: org.webosports.app.testr-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: qt-palm-plugin-lic
+Version: 0.1.0+gitr0+018fb325af82b825ab1c9c6be7f1e016a7ca3a7e-r1.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: mojolocation-stub-lic
+Version: 2.0.0-2-r3.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: pulseaudio-server
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libltdl7 (>= 2.4.2), pulseaudio-module-alsa-card, libjson0 (>= 0.9), pulseaudio-module-device-restore, pulseaudio-module-detect, pulseaudio-module-native-protocol-unix, pulseaudio-module-null-sink, pulseaudio-module-switch-on-port-available, libpulsecore (>= 3.0), pulseaudio-module-rescue-streams, pulseaudio-module-augment-properties, pulseaudio-module-always-sink, pulseaudio-module-udev-detect, pulseaudio-module-stream-restore, pulseaudio-module-role-cork, pulseaudio-module-intended-roles, libdbus-1-3 (>= 1.6.8), libsamplerate0 (>= 0.1.8), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libcap2 (>= 2.22), pulseaudio-module-filter-heuristics, pulseaudio-module-alsa-sink, libc6 (>= 2.17), shadow, libpulse0 (>= 3.0), pulseaudio-module-filter-apply, pulseaudio-module-alsa-source, pulseaudio-module-position-event-sounds, pulseaudio-module-suspend-on-idle, pulseaudio-module-card-restore, base-passwd, pulseaudio-module-default-device-restore
+Replaces: libpulse-bin, libpulse-conf
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/pulse/daemon.conf 5bc9e0d2bf6c54d89ad999de4290fccc
+ /etc/pulse/client.conf bdea965cdb68b445c04a1fa62193c096
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: org.webosports.app.firstuse
+Version: 0.2.0+gitr0+35825a101aebfc912f9102e758ab6c5f7e9f66f7-r0.4
+Depends: cordova
+Recommends: org.webosports.app.firstuse-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: libmjson-lic
+Version: 1.0.1-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: eglibc-lic
+Version: 2.17-r3.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libmad-lic
+Version: 0.15.1b-r3.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: ptmalloc3
+Version: 1.0-r1.4
+Depends: libc6 (>= 2.17)
+Recommends: ptmalloc3-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: pulseaudio-module-filter-heuristics
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: alsa-utils-amixer
+Version: 1.0.26-r0.5
+Depends: libasound2 (>= 1.0.26), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: configurator
+Version: 2.0.0-48-r2.5
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: configurator-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: psmisc-lic
+Version: 22.20-r1.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: libjpeg8
+Version: 8d+1.2.1-r2.4
+Depends: libc6 (>= 2.17)
+Recommends: libjpeg-lic
+Provides: jpeg
+Replaces: jpeg
+Conflicts: jpeg
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414195
+Auto-Installed: yes
+
+Package: libsigc-2.0-0
+Version: 2.2.9-r0.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libsigc-2.0-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: libopkg1
+Version: 1:0.1.8+svnr649-r16.0.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: libusb-1.0-0
+Version: 1.0.9-r1.5
+Depends: libc6 (>= 2.17)
+Recommends: libusb-1.0-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: liblunasysmgrcommon-lic
+Version: 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3-r4.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: pulseaudio-upstart
+Version: 3.0-r10.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: packagegroup-core-ssh-openssh-lic
+Version: 1.0-r1.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: libuuid1
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: libboost-program-options1.53.0
+Version: 1.53.0-r1.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: gst-meta-video
+Version: 0.10-r13.9
+Depends: gst-plugins-good-avi, gst-plugins-good-matroska, gst-plugins-base-theora, gst-meta-base
+Recommends: gst-meta-audio
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: liblunasysmgrcommon1
+Version: 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3-r4.8
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), liblunasysmgripc2 (>= 2.0.0-1.01), librolegen2 (>= 2.0.0-16), libnyx5 (>= 5.1.0-66), luna-prefs (>= 2.0.0-1.01), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmloglib3 (>= 3.0.0-27)
+Recommends: liblunasysmgrcommon-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414216
+Auto-Installed: yes
+
+Package: webos-initscripts
+Version: 2.0.0-123-r2.4
+Depends: upstart
+Recommends: webos-initscripts-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: foundation-frameworks-lic
+Version: 1.0-1.0.1-r4.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: gst-plugins-base-audiotestsrc
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: mojomail-smtp-lic
+Version: 2.0.0-99-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: cordova-lic
+Version: 2.3.0+wop+gitr0+368e2da0c0db11f219560ec1c10ca0417df0c1c4-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: libnl-3-cli
+Version: 1:3.2.21-r0.4
+Depends: libgcc1 (>= 4.7.2), libnl-route-3-200 (>= 3.2.21), libnl-3-200 (>= 3.2.21), libnl-3-genl (>= 3.2.21), libc6 (>= 2.17), libnl-nf-3-200 (>= 3.2.21)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: base-files
+Version: 3.0.14-r80.1
+Recommends: base-files-lic
+Status: install ok installed
+Architecture: tuna
+Conffiles:
+ /etc/fstab fc63456f2276f52b2f94e325f69a88b6
+ /etc/hostname 2d229f0228070c5639876c5389f8973f
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: alsa-conf-base
+Version: 1.0.26-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: libexpat-lic
+Version: 2.1.0-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: nodejs-module-webos-sysbus-lic
+Version: 2.0.0-25-r3.6
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: libsigc-2.0-lic
+Version: 2.2.9-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: openssh-sshd
+Version: 6.1p1-r0.1
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), openssh-keygen, libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), shadow, base-passwd
+Provides: sshd
+Conflicts: dropbear
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/ssh/sshd_config 3d50b3ee4fef8582e35d738a04fca398
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: luna-service2-lic
+Version: 3.3.0-149-r9.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: libqtwebkit-lic
+Version: 1.3-0.54-r13.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: gst-plugins-ugly-mad
+Version: 0.10.19-r3.0
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libmad0 (>= 0.15.1b), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), gst-plugins-ugly, libffi6 (>= 3.0.11), libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libgstinterfaces-0.10-0 (>= 0.10.36)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: util-linux-sfdisk
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: cordova
+Version: 2.3.0+wop+gitr0+368e2da0c0db11f219560ec1c10ca0417df0c1c4-r0.4
+Recommends: cordova-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: opkg-utils
+Version: 0.1.8+git0+757a1664a440c60e8126443bf984e4bdf374c327-r0.2
+Depends: python-pickle, python-shell, python, python-textutils, python-math, python-subprocess, python-io, python-logging, python-compression, libc6 (>= 2.17), python-crypt, python-fcntl, python-stringold
+Recommends: opkg-utils-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: gstreamer-lic
+Version: 0.10.36-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: mojoloader-lic
+Version: 1.0-9-r5.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: libstdc++6
+Version: 4.7.2-r20.2
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: powerd
+Version: 4.0.0-19-r3.6
+Depends: libnyx5 (>= 5.1.0-66), libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libcjson1 (>= 1.8.0-35), libc6 (>= 2.17)
+Recommends: powerd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: mdbus2-lic
+Version: 2:2.3.0-r6.0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: gst-plugins-base-theora
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), libogg0 (>= 1.3.0), gstreamer (>= 0.10.36), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base, libtheora (>= 1.1.1)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: yajl-lic
+Version: 1.0.12-r0.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: gst-plugins-good-flac
+Version: 0.10.31-r8.9
+Depends: libgcc1 (>= 4.7.2), libogg0 (>= 1.3.0), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libflac8 (>= 1.2.1)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: wpa-supplicant-cli
+Version: 2.0-r2.5
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: libdbus-1-3
+Version: 1.6.8-r6.0.5
+Depends: libc6 (>= 2.17)
+Recommends: dbus-1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: db8-lic
+Version: 2.0.0-67-r11.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: libnl-3-genl
+Version: 1:3.2.21-r0.4
+Depends: libnl-3-cli (>= 3.2.21), libnl-3-200 (>= 3.2.21), libc6 (>= 2.17)
+Replaces: libnl-genl2, libnl-genl-3-200
+Conflicts: libnl-genl2, libnl-genl-3-200
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: gst-plugins-base-audioconvert
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: liburiparser1
+Version: 0.7.7-r0.4
+Depends: libc6 (>= 2.17)
+Recommends: liburiparser-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: bzip2
+Version: 1.0.6-r6.4
+Depends: update-alternatives-cworth, libbz2-0 (>= 1.0.6), libc6 (>= 2.17)
+Recommends: bzip2-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: tzdata
+Version: 2013b-r0.4
+Recommends: tzdata-lic
+Conflicts: timezone-asia, timezone-europe, timezone-iso3166.tab, timezone-america, timezones, timezone-zone.tab, timezone-pacific, timezone-atlantic, timezone-antarctica, timezone-arctic, timezone-africa, timezone-indian, timezone-australia
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: android-system-image-tuna
+Version: 20130519-43-r4.1.0
+Recommends: android-system-image-tuna-lic
+Provides: virtual/android-system-image
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414179
+Auto-Installed: yes
+
+Package: android-system-compat-lic
+Version: 1.0-r0.2
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: webkit-supplemental
+Version: 2.0.0-0.5-r7.8
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libc6 (>= 2.17), libfreetype6 (>= 2.4.11), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3)
+Recommends: webkit-supplemental-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: libgstapp-0.10-0
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414200
+Auto-Installed: yes
+
+Package: libpmcertificatemgr2
+Version: 2.0.0-27-r4.4
+Depends: libcrypto1.0.0 (>= 1.0.1e), ca-certificates, update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: libpmcertificatemgr-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414201
+Auto-Installed: yes
+
+Package: libffi-lic
+Version: 3.0.11-r1.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: keyboard-efigs-lic
+Version: 3.0.0-2+wop+gitr0+fc69babb308f11ee3f42334af393f51a2d9be198-r3.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414220
+Auto-Installed: yes
+
+Package: app-services
+Version: 3.0.0-1-r5.4
+Recommends: app-services-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414234
+Auto-Installed: yes
+
+Package: ptmalloc3-lic
+Version: 1.0-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414201
+Auto-Installed: yes
+
+Package: glib-networking-lic
+Version: 2.28.7-r3.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: python-core
+Version: 2.7.3-r0.3.5
+Depends: python-re, libpython2.7-1.0 (>= 2.7.3), libz1 (>= 1.2.7), python-lang, libc6 (>= 2.17)
+Recommends: python-readline
+Provides: python
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414157
+Auto-Installed: yes
+
+Package: libmount1
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), libblkid1 (>= 2.22.2), libuuid1 (>= 2.22.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: util-linux-mount
+Version: 2.22.2-r3.4
+Depends: libmount1 (>= 2.22.2), libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: initscripts
+Version: 1.0-r148.6
+Depends: update-alternatives-cworth
+Recommends: initscripts-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: db8
+Version: 2.0.0-67-r11.0
+Depends: libgcc1 (>= 4.7.2), libicui18n50 (>= 50.1.2), libstdc++6 (>= 4.7.2), db (>= 4.8.30), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libicuuc50 (>= 50.1.2)
+Recommends: db8-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: e2fsprogs-lic
+Version: 1.42.7-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: libcrypto1.0.0
+Version: 1.0.1e-r21.0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: pulseaudio-module-card-restore
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: netbase-lic
+Version: 1:5.0-r0.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: luna-sysmgr-lic
+Version: 3.0.0-3+wop+gitr2+466853f38573bb0c06c3bba8de6a59c2e069621c-r24.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414220
+Auto-Installed: yes
+
+Package: gst-meta-base
+Version: 0.10-r13.9
+Depends: gst-plugins-base-gio, gst-plugins-base-volume, gst-plugins-base-audioresample, gst-plugins-base-videoscale, gstreamer, gst-plugins-base-typefindfunctions, gst-plugins-good-autodetect, gst-plugins-base-audioconvert, gst-plugins-base-decodebin2, gst-plugins-good-souphttpsrc, gst-plugins-base-decodebin, gst-plugins-base-alsa, gst-plugins-base-playbin, gst-plugins-base-ffmpegcolorspace
+Recommends: gst-meta-base-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: libtinfo5
+Version: 5.9-r15.1.4
+Depends: libc6 (>= 2.17)
+Recommends: ncurses-terminfo-base
+Suggests: ncurses-terminfo
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: mojomail-imap
+Version: 2.0.0-99-r3.5
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libboost-regex1.53.0 (>= 1.53.0), libglib-2.0-0 (>= 2.34.3), libemail-common2 (>= 2.0.0-99), libicuuc50 (>= 50.1.2)
+Recommends: mojomail-imap-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: packagegroup-webos-ports-extended-lic
+Version: 1.0-r25.0
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: luna-applauncher
+Version: 3.0.0-1.00+wop+gitr0+e497bc1e349dbe73f56eb0e95c8da8c1f7be2b28-r11.4
+Recommends: luna-applauncher-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: mingetty
+Version: 1.08-r3.2
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: mingetty-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: pulseaudio-module-suspend-on-idle
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: makedevs-lic
+Version: 1.0.0-r7.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: libmad0
+Version: 0.15.1b-r3.0
+Depends: libc6 (>= 2.17)
+Recommends: libmad-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: util-linux-swaponoff
+Version: 2.22.2-r3.4
+Depends: libmount1 (>= 2.22.2), libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: keymaps-lic
+Version: 1.0-r20.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: screen
+Version: 4.0.3-r3.2
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Recommends: screen-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: libjson0
+Version: 0.9-r0.4
+Depends: libc6 (>= 2.17)
+Recommends: libjson-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: gst-plugins-good-matroska
+Version: 0.10.31-r8.9
+Depends: libgstriff-0.10-0 (>= 0.10.36), libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libbz2-0 (>= 1.0.6)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: update-alternatives-cworth
+Version: 1:0.1.8+svnr649-r16.0.4
+Provides: update-alternatives
+Conflicts: update-alternatives-dpkg
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: gst-plugins-good-locale-en-gb
+Version: 0.10.31-r8.9
+Recommends: virtual-locale-en-gb
+Provides: en-gb-translation, gst-plugins-good-locale
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414294
+
+Package: python-io
+Version: 2.7.3-r0.3.5
+Depends: libssl1.0.0 (>= 1.0.1e), libpython2.7-1.0 (>= 2.7.3), python-core, python-textutils, python-math, libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: tar
+Version: 1.26-r5.4
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: tar-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414234
+Auto-Installed: yes
+
+Package: activitymanager
+Version: 2.0.0-110-r2.5
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2 (>= 3.3.0-149), libboost-regex1.53.0 (>= 1.53.0), libglib-2.0-0 (>= 2.34.3)
+Recommends: activitymanager-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: powerstat
+Version: 0.01.17-r0.2
+Depends: libc6 (>= 2.17)
+Recommends: powerstat-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: org.webosports.app.phone-lic
+Version: 0.1.0+gitr0+6b959f3749de0ed41f7e01bfc83e67adc8bf6207-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: gst-plugins-base-volume
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: libmjson0
+Version: 1.0.1-r0.4
+Depends: libc6 (>= 2.17)
+Recommends: libmjson-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414165
+Auto-Installed: yes
+
+Package: isis-fonts
+Version: 1.0.0-0.1-r0.4
+Recommends: isis-fonts-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414199
+Auto-Installed: yes
+
+Package: opkg-utils-lic
+Version: 0.1.8+git0+757a1664a440c60e8126443bf984e4bdf374c327-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: org.webosinternals.ipkgservice-lic
+Version: 2.0.0+git0+65cb032e6d61a3190ff58bc76b485d4ccf864702-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: enyo-1.0
+Version: 1.0-128.2+wop+gitr0+82188d68bd87ff2f32988a5ffc7b445a97bbeea5-r6.4
+Recommends: enyo-1.0-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414233
+Auto-Installed: yes
+
+Package: libglib-2.0-lic
+Version: 1:2.34.3-r2.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: upstart-sysvcompat
+Version: 0.3.11-r11.0.4
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: iproute2
+Version: 3.8.0-r2.3
+Depends: iptables (>= 1.4.17), libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: iproute2-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: gstreamer-locale-en-gb
+Version: 0.10.36-r2.4
+Recommends: virtual-locale-en-gb
+Provides: gstreamer-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414294
+
+Package: gzip-lic
+Version: 1.5-r1.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: packagegroup-webos-ports-development-lic
+Version: 1.0-r7.0
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: libusb-0.1-lic
+Version: 1:0.1.4-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: foundation-frameworks
+Version: 1.0-1.0.1-r4.4
+Recommends: foundation-frameworks-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: python-textutils
+Version: 2.7.3-r0.3.5
+Depends: libpython2.7-1.0 (>= 2.7.3), python-core, python-io, libc6 (>= 2.17), python-re, python-stringold
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: libgstvideo-0.10-0
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: openssh-lic
+Version: 6.1p1-r0.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: libgcc-s-lic
+Version: 4.7.2-r20.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: nyx-modules-lic
+Version: 5.1.0-88+wop+gitr3+db6efebd51dc726df7c9bff915bb0ad58765d70c-r8.0
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: bzip2-lic
+Version: 1.0.6-r6.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: libvorbis
+Version: 1.3.3-r1.2
+Depends: libogg0 (>= 1.3.0), libc6 (>= 2.17)
+Recommends: libvorbis-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: org.webosinternals.preware-lic
+Version: 2.0.0+gitr0+ce77b2c5e27029f4d96f3c543b79dddf08760e33-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: connman-lic
+Version: 1.12-r20.0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: packagegroup-webos-telephony-lic
+Version: 1.0-r1.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: browser-adapter
+Version: 3.0.0-0.4-r7.7
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), libc6 (>= 2.17), libpbnjson (>= 1.3.0-10), libglib-2.0-0 (>= 2.34.3)
+Recommends: browser-adapter-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: libboost-filesystem1.53.0
+Version: 1.53.0-r1.4
+Depends: libgcc1 (>= 4.7.2), libboost-system1.53.0 (>= 1.53.0), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: org.webosports.service.licenses-lic
+Version: 0.1.0+gitr0+16b9eac8620944af04547234520f1a9f39b0bb62-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: rdx-utils-stub
+Version: 2.0.0-1-r2.4
+Recommends: rdx-utils-stub-lic
+Provides: rdx-utils
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: libpng16-16
+Version: 1.6.0-r0.1
+Depends: libz1 (>= 1.2.7), libc6 (>= 2.17)
+Recommends: libpng16-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414195
+Auto-Installed: yes
+
+Package: luna-universalsearchmgr-lic
+Version: 2.0.0-1.00-r6.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: com.palm.app.browser
+Version: 4.0.0-0.21+wop+gitr0+57f91972e6d1abc8c32e476920e1683d026b4d3e-r7.4
+Recommends: com.palm.app.browser-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414214
+Auto-Installed: yes
+
+Package: pulseaudio-lib-alsa-util
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libgcc1 (>= 4.7.2), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libasound2 (>= 1.0.26), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: iptables-lic
+Version: 1.4.17-r1.3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: libxml2
+Version: 2.9.0-r1.1.3
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libc6 (>= 2.17)
+Recommends: libxml2-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libsamplerate0-lic
+Version: 0.1.8-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: ofono
+Version: 1.12+git3+3ed41ee4ea3a9ff222931586c5fa90e6f9090222-r7.0
+Depends: android-audiosystem (>= 1.8+bzr43), android-apn-database, dbus-1, libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), bluez4 (>= 4.101), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: update-rc.d, ofono-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: libsndfile-lic
+Version: 1.0.25-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: lsb
+Version: 4.1-r6.4
+Depends: util-linux
+Recommends: lsb-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: nodejs-module-webos-dynaload-lic
+Version: 2.0.0-11-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: python-crypt
+Version: 2.7.3-r0.3.5
+Depends: libssl1.0.0 (>= 1.0.1e), libpython2.7-1.0 (>= 2.7.3), libc6 (>= 2.17), libcrypto1.0.0 (>= 1.0.1e), python-core
+Recommends: openssl
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: org.webosports.app.firstuse-lic
+Version: 0.2.0+gitr0+35825a101aebfc912f9102e758ab6c5f7e9f66f7-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: webos-telephonyd
+Version: 0.1.0+gitr1+c9e3c1b478186b95a401aa4822c49575dd6b152e-r0.0
+Depends: libglib-2.0-0 (>= 2.34.3), luna-prefs (>= 2.0.0-1.01), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libpbnjson (>= 1.3.0-10)
+Recommends: webos-telephonyd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: mdbus2
+Version: 2:2.3.0-r6.0.4
+Depends: libglib-2.0-0 (>= 2.34.3), libreadline6 (>= 6.2), libc6 (>= 2.17)
+Recommends: mdbus2-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: libblkid1
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), libuuid1 (>= 2.22.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: locale-base-en-gb
+Version: 2.17-r0.2
+Depends: eglibc-binary-localedata-en-gb
+Provides: virtual-locale-en-gb, virtual-locale-en
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414150
+
+Package: gst-plugins-base-gio
+Version: 0.10.36-r7.4
+Depends: libz1 (>= 1.2.7), libxml2 (>= 2.9.0), libffi6 (>= 3.0.11), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: libthread-db1
+Version: 2.17-r3.4
+Depends: libc6 (>= 2.17)
+Provides: glibc-thread-db
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: libicuuc50
+Version: 50.1.2-r0.4
+Depends: libgcc1 (>= 4.7.2), libicudata50 (>= 50.1.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414205
+Auto-Installed: yes
+
+Package: libgcrypt-lic
+Version: 1.5.0-r4.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: libz-lic
+Version: 1.2.7-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: opkg-lic
+Version: 1:0.1.8+svnr649-r16.0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: novacomd
+Version: 2.0.0-123-r0.4
+Depends: iproute2, libgcc1 (>= 4.7.2), libnyx5 (>= 5.1.0-66), libc6 (>= 2.17)
+Recommends: novacomd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: gst-plugins-base-locale-en-gb
+Version: 0.10.36-r7.4
+Recommends: virtual-locale-en-gb
+Provides: en-gb-translation, gst-plugins-base-locale
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414294
+
+Package: libsqlite3-0
+Version: 3071502-r2.1
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: mojomail-pop-lic
+Version: 2.0.0-99-r3.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414210
+Auto-Installed: yes
+
+Package: python-math
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libc6 (>= 2.17), python-crypt
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: udev-lic
+Version: 182-r7.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: webappmanager
+Version: 3.0.0-3+wop+gitr0+591367d418e96bc19c5250d7fbb1146919f21a50-r9.7
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), ptmalloc3, qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), libqtwebkit4 (>= 1.3-0.54), qt-webos-plugin, liblunasysmgripc2 (>= 2.0.0-1.01), librolegen2 (>= 2.0.0-16), luna-service2 (>= 3.3.0-149), luna-prefs (>= 2.0.0-1.01), libsqlite3-0 (>= 3071502), liblunasysmgrcommon1 (>= 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3), libcjson1 (>= 1.8.0-35), libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), util-linux, libpmloglib3 (>= 3.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: webappmanager-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: gst-plugins-good-avi
+Version: 0.10.31-r8.9
+Depends: libgstriff-0.10-0 (>= 0.10.36), libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: browserserver-lic
+Version: 3.0.0-0.7.2+wop+gitr0+58ec890291dfa1a927faba069f8b0f1d8ac94e2d-r9.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: libusb-1.0-lic
+Version: 1.0.9-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: sleepd-lic
+Version: 1.1.1-14-r3.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414203
+Auto-Installed: yes
+
+Package: gdbserver
+Version: 7.5.1-r0.0.1
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: glibc-thread-db
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: eglibc-binary-localedata-en-us
+Version: 2.17-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414150
+Auto-Installed: yes
+
+Package: packagegroup-webos-extended-lic
+Version: 1.0-r19.5
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414239
+Auto-Installed: yes
+
+Package: pmlogconf-lic
+Version: 2.0.0-16-r2.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: tar-lic
+Version: 1.26-r5.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: libwebos-gui-lic
+Version: 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: core-apps-lic
+Version: 3.0.0-2+wop+gitr0+8ac6fe5262ad7dc22ddc6678e1b7fee4c78f08b5-r10.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: gst-plugins-ugly-lic
+Version: 0.10.19-r3.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: distro-feed-configs-lic
+Version: 1.0-r2.6
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414185
+Auto-Installed: yes
+
+Package: gdb-lic
+Version: 7.5.1-r0.0.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: udev-utils
+Version: 182-r7.5
+Depends: libgcc1 (>= 4.7.2), libkmod2 (>= 9), libblkid1 (>= 2.22.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: upstart
+Version: 0.3.11-r11.0.4
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: upstart-sysvcompat, upstart-lic, upstart-getty, libupstart0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: dbus-lic
+Version: 1.6.8-r6.0.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: isis-fonts-lic
+Version: 1.0.0-0.1-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: curl-lic
+Version: 7.29.0-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: enyo-1.0-lic
+Version: 1.0-128.2+wop+gitr0+82188d68bd87ff2f32988a5ffc7b445a97bbeea5-r6.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414234
+Auto-Installed: yes
+
+Package: libicutu50
+Version: 50.1.2-r0.4
+Depends: libgcc1 (>= 4.7.2), libicui18n50 (>= 50.1.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17), libicudata50 (>= 50.1.2), libicuuc50 (>= 50.1.2)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: kernel-module-autofs4
+Version: 3:3.0.31+gitr0+8edd340bab8010c9170c59de29a8e65f7f576749-r12.1
+Depends: kernel-3.0.31
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414165
+
+Package: ncurses-lic
+Version: 5.9-r15.1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: gst-plugins-good-wavparse
+Version: 0.10.31-r8.9
+Depends: libgstriff-0.10-0 (>= 0.10.36), libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: org.webosports.app.memos-lic
+Version: 1.0.6+gitr0+86c4e33ff7e51e80845fb564ba0e0ea99cae818d-r1.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: alsa-utils-alsaucm
+Version: 1.0.26-r0.5
+Depends: libasound2 (>= 1.0.26), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: libboost-system1.53.0
+Version: 1.53.0-r1.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: webos-shutdownscripts-lic
+Version: 2.1.0-36-r1.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: curl
+Version: 7.29.0-r2.5
+Depends: libcurl5 (>= 7.29.0), libz1 (>= 1.2.7), libc6 (>= 2.17)
+Recommends: curl-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: pmlogdaemon-lic
+Version: 2.0.0-102-r4.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: pulseaudio-module-null-sink
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: rdx-utils-stub-lic
+Version: 2.0.0-1-r2.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: libsoup-2.4-1
+Version: 2.40.2-r1.1
+Depends: libglib-2.0-0 (>= 2.34.3), libxml2 (>= 2.9.0), libffi6 (>= 3.0.11), libz1 (>= 1.2.7), libc6 (>= 2.17)
+Recommends: glib-networking, libsoup-2.4-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: mtdev
+Version: 1.1.2-r0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: mtdev-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: util-linux-lic
+Version: 2.22.2-r3.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: kernel-image-3.0.31
+Version: 3:3.0.31+gitr0+8edd340bab8010c9170c59de29a8e65f7f576749-r12.1
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414165
+Auto-Installed: yes
+
+Package: org.webosports.app.phone
+Version: 0.1.0+gitr0+6b959f3749de0ed41f7e01bfc83e67adc8bf6207-r0.4
+Depends: cordova
+Recommends: org.webosports.app.phone-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: libhunspell-1.3-lic
+Version: 1.3.2-r1.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414213
+Auto-Installed: yes
+
+Package: nodejs-lic
+Version: 0.4.12-0webos3-34-r4.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: webos-connman-adapter-lic
+Version: 1.0.0-9-r2.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: libpython2.7-1.0
+Version: 2.7.3-r0.3.5
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: tzdata-lic
+Version: 2013b-r0.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: android-system-image-tuna-lic
+Version: 20130519-43-r4.1.0
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414179
+Auto-Installed: yes
+
+Package: libpulse0
+Version: 3.0-r10.5
+Depends: libgcc1 (>= 4.7.2), libsndfile1 (>= 1.0.25), libjson0 (>= 0.9), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libc6 (>= 2.17), libpulsecommon (>= 3.0)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: luna-sysservice-lic
+Version: 2.0.1-1.04-r5.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: librolegen2
+Version: 2.0.0-16-r1.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: librolegen-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414215
+Auto-Installed: yes
+
+Package: wpa-supplicant
+Version: 2.0-r2.5
+Depends: libdbus-1-3 (>= 1.6.8), libnl-3-200 (>= 3.2.21), libnl-3-genl (>= 3.2.21), libc6 (>= 2.17), libgcrypt11 (>= 1.5.0), libgnutls26 (>= 2.12.21)
+Recommends: wpa-supplicant-lic, wpa-supplicant-cli, wpa-supplicant-passphrase
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/wpa_supplicant.conf c00ac06edf6935bb553f19124d63b4ea
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: novacomd-lic
+Version: 2.0.0-123-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: libtheora-lic
+Version: 1.1.1-r1.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: luna-systemui
+Version: 2.0.0-1.02+wop+gitr2+40a40f5db63b53b7ed157326729f809db062480f-r9.1
+Recommends: luna-systemui-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414224
+Auto-Installed: yes
+
+Package: opkg-collateral
+Version: 1.0-r2.2
+Recommends: opkg-collateral-lic
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/opkg/opkg.conf 1ca48f33f4d4989fe88c3035b580e228
+Installed-Time: 1369414150
+
+Package: pmlogctl
+Version: 2.0.0-11-r2.2
+Depends: pmlogconf, libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: pmlogctl-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: nyx-modules
+Version: 5.1.0-88+wop+gitr3+db6efebd51dc726df7c9bff915bb0ad58765d70c-r8.0
+Depends: lsb, mtdev (>= 1.1.2), libudev0 (>= 182), libnyx5 (>= 5.1.0-66), libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: nyx-modules-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: libncursesw5
+Version: 5.9-r15.1.4
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: cpushareholder-stub-lic
+Version: 2.0.1-2-r2.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414229
+Auto-Installed: yes
+
+Package: gst-plugins-good-pulse
+Version: 0.10.31-r8.9
+Depends: libgcc1 (>= 4.7.2), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), gstreamer (>= 0.10.36), libpulsecommon (>= 3.0), libgstaudio-0.10-0 (>= 0.10.36), libcap2 (>= 2.22), libxml2 (>= 2.9.0), libdbus-1-3 (>= 1.6.8), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), gst-plugins-good, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libgstpbutils-0.10-0 (>= 0.10.36), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: mojoloader
+Version: 1.0-9-r5.4
+Recommends: mojoloader-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: e2fsprogs-badblocks
+Version: 1.42.7-r1.4
+Depends: libcom-err2 (>= 1.42.7), libext2fs2 (>= 1.42.7), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: alsa-utils-alsamixer
+Version: 1.0.26-r0.5
+Depends: libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libc6 (>= 2.17), libpanelw5 (>= 5.9), libmenuw5 (>= 5.9), libasound2 (>= 1.0.26), libformw5 (>= 5.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libsamplerate0
+Version: 0.1.8-r1.5
+Depends: libsndfile1 (>= 1.0.25), libc6 (>= 2.17)
+Recommends: libsamplerate0-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414179
+Auto-Installed: yes
+
+Package: luna-applauncher-lic
+Version: 3.0.0-1.00+wop+gitr0+e497bc1e349dbe73f56eb0e95c8da8c1f7be2b28-r11.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: underscore-lic
+Version: 0.6.0-8-r5.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: libfreetype-lic
+Version: 2.4.11-r0.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: parted
+Version: 3.1-r1.4
+Depends: libgcc1 (>= 4.7.2), libtinfo5 (>= 5.9), libreadline6 (>= 6.2), libc6 (>= 2.17), libblkid1 (>= 2.22.2), libuuid1 (>= 2.22.2)
+Recommends: parted-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: android-system-compat
+Version: 1.0-r0.2
+Recommends: android-system-compat-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: screen-lic
+Version: 4.0.3-r3.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: serial-forward-lic
+Version: 1:1.1+gitr0+2725c6c18cace2acaf4f20c0748300dcea4dd90c-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: usbutils-ids
+Version: 006-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: libcares-lic
+Version: 1.9.1-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: keyboard-efigs
+Version: 3.0.0-2+wop+gitr0+fc69babb308f11ee3f42334af393f51a2d9be198-r3.7
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpbnjson (>= 1.3.0-10)
+Recommends: keyboard-efigs-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414220
+Auto-Installed: yes
+
+Package: activitymanager-lic
+Version: 2.0.0-110-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: webos-initscripts-lic
+Version: 2.0.0-123-r2.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: luna-init
+Version: 2.0.0-1.03-r7.4
+Recommends: luna-init-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414214
+Auto-Installed: yes
+
+Package: qt-webos-plugin-lic
+Version: 0.1.0+gitr0+b2e832dc6dbca6e3c81496ccf6775b6496e55ebd-r1.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: libkmod2
+Version: 9-r0.0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: mojoservice-frameworks-lic
+Version: 1.0-1.0-r4.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: base-passwd
+Version: 3.5.26-r2.5
+Recommends: base-passwd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: libwebos-gui1
+Version: 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d-r0.4
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libstdc++6 (>= 4.7.2), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: libwebos-gui-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414216
+Auto-Installed: yes
+
+Package: sleepd
+Version: 1.1.1-14-r3.5
+Depends: libxml2 (>= 2.9.0), powerd (>= 4.0.0-19), luna-service2 (>= 3.3.0-149), libnyx5 (>= 5.1.0-66), libsqlite3-0 (>= 3071502), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libcjson1 (>= 1.8.0-35)
+Recommends: sleepd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414203
+Auto-Installed: yes
+
+Package: org.webosports.app.settings-lic
+Version: 0.3.0+gitr0+efc30a1b4cbc99242aef72ea66ec7a3fe676f0ef-r1.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: busybox-hwclock
+Version: 1.20.2-r9.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: pmlogconf
+Version: 2.0.0-16-r2.4
+Recommends: pmlogconf-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: gst-plugins-base-vorbis
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), libogg0 (>= 1.3.0), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libvorbis (>= 1.3.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: libnyx5
+Version: 5.1.0-66-r6.5
+Depends: libglib-2.0-0 (>= 2.34.3), libc6 (>= 2.17)
+Recommends: libnyx-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: shadow-lic
+Version: 4.1.4.3-r13.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: bcm4330-firmware-lic
+Version: 4.1.2-r2.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: gdb
+Version: 7.5.1-r0.0.1
+Depends: libgcc1 (>= 4.7.2), libtinfo5 (>= 5.9), libz1 (>= 1.2.7), libreadline6 (>= 6.2), libc6 (>= 2.17), libexpat1 (>= 2.1.0)
+Recommends: glibc-thread-db, gdb-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414155
+Auto-Installed: yes
+
+Package: qt-webos-plugin
+Version: 0.1.0+gitr0+b2e832dc6dbca6e3c81496ccf6775b6496e55ebd-r1.8
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), liblunasysmgripc2 (>= 2.0.0-1.01), libfreetype6 (>= 2.4.11), libwebos-gui1 (>= 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: qt-webos-plugin-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: binutils-lic
+Version: 2.23.1-r3.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414239
+Auto-Installed: yes
+
+Package: udev-extraconf-lic
+Version: 1.0-r11.1
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: libreadline6
+Version: 6.2-r4.5
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Recommends: libreadline-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: libgstpbutils-0.10-0
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: libpbnjson
+Version: 1.3.0-10-r2.2
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), yajl (>= 1.0.12), libc6 (>= 2.17)
+Recommends: libpbnjson-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: powerd-lic
+Version: 4.0.0-19-r3.6
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414203
+Auto-Installed: yes
+
+Package: com.palm.app.browser-lic
+Version: 4.0.0-0.21+wop+gitr0+57f91972e6d1abc8c32e476920e1683d026b4d3e-r7.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414214
+Auto-Installed: yes
+
+Package: gst-plugins-base-audioresample
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: shadow-securetty-lic
+Version: 4.1.4.3-r3.5
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: tinylogin-lic
+Version: 1.4-r9.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: fbprogress-lic
+Version: 2.0.0-22-r3.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: killall
+Version: 22.20-r1.2
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: shadow
+Version: 4.1.4.3-r13.4
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, shadow-securetty, base-passwd, libc6 (>= 2.17)
+Recommends: shadow-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: python-re
+Version: 2.7.3-r0.3.5
+Depends: python-core
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414157
+Auto-Installed: yes
+
+Package: bcm4330-firmware
+Version: 4.1.2-r2.4
+Recommends: bcm4330-firmware-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: loadable-frameworks-lic
+Version: 1.0-1.0.1-r4.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: strace-lic
+Version: 4.7-r4.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: librdx-stub
+Version: 2.0.0-9-r4.4
+Depends: libc6 (>= 2.17)
+Recommends: librdx-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: openssh-keygen
+Version: 6.1p1-r0.1
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17)
+Conflicts: ssh-keygen
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: packagegroup-core-boot
+Version: 1.0-r11.5
+Depends: tinylogin, busybox, modutils-initscripts, busybox-hwclock, upstart, keymaps, update-alternatives-cworth, udev, initscripts, webos-initscripts, netbase, base-files, init-ifupdown, base-passwd
+Recommends: packagegroup-core-boot-lic
+Provides: task-core-boot
+Replaces: task-core-boot
+Conflicts: task-core-boot
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414192
+
+Package: libgstinterfaces-0.10-0
+Version: 0.10.36-r7.4
+Depends: libz1 (>= 1.2.7), libxml2 (>= 2.9.0), libffi6 (>= 3.0.11), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: samsung-tuna-firmware-lic
+Version: 4.1.2-r6.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: upstart-getty-lic
+Version: 1.0-r0.5
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: openssh-scp
+Version: 6.1p1-r0.1
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: pulseaudio-module-stream-restore
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), pulseaudio-lib-protocol-native (>= 3.0), libpulsecore (>= 3.0), speex (>= 1.2rc1), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: libgnutls26
+Version: 2.12.21-r8.4.1
+Depends: libcap2 (>= 2.22), libz1 (>= 1.2.7), libc6 (>= 2.17), libtasn1-3 (>= 2.14), libgpg-error0 (>= 1.11), libgcrypt11 (>= 1.5.0)
+Recommends: libgnutls-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: modutils-initscripts-lic
+Version: 1.0-r6.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: gst-plugins-base-decodebin2
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: fuser
+Version: 22.20-r1.2
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: webos-connman-adapter
+Version: 1.0.0-9-r2.8
+Depends: libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), luna-prefs (>= 2.0.0-1.01), luna-service2 (>= 3.3.0-149), libpbnjson (>= 1.3.0-10), libglib-2.0-0 (>= 2.34.3), connman, libpmloglib3 (>= 3.0.0-27)
+Recommends: webos-connman-adapter-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: android-initscripts-upstart
+Version: 1.0-r8.0
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: luna-sysservice
+Version: 2.0.1-1.04-r5.7
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), liburiparser1 (>= 0.7.7), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libcjson1 (>= 1.8.0-35), libpbnjson (>= 1.3.0-10)
+Recommends: luna-sysservice-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: kernel-3.0.31
+Version: 3:3.0.31+gitr0+8edd340bab8010c9170c59de29a8e65f7f576749-r12.1
+Depends: kernel-image-3.0.31
+Provides: kernel-3.0.31
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414165
+Auto-Installed: yes
+
+Package: iptables
+Version: 1.4.17-r1.3
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: kernel-module-nf-defrag-ipv4, kernel-module-nf-conntrack, kernel-module-ipt-masquerade, kernel-module-x-tables, kernel-module-nf-nat, kernel-module-nf-conntrack-ipv4, kernel-module-iptable-nat, kernel-module-ip-tables, kernel-module-iptable-filter, iptables-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414168
+Auto-Installed: yes
+
+Package: mingetty-lic
+Version: 1.08-r3.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: libcjson-lic
+Version: 1.8.0-35-r3.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: bluez4-lic
+Version: 4.101-r5.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: libnyx-lic
+Version: 5.1.0-66-r6.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414203
+Auto-Installed: yes
+
+Package: nodejs-module-webos-dynaload
+Version: 2.0.0-11-r2.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libboost-filesystem1.53.0 (>= 1.53.0), libc6 (>= 2.17)
+Recommends: nodejs-module-webos-dynaload-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: alsa-utils-aplay
+Version: 1.0.26-r0.5
+Depends: libgcc1 (>= 4.7.2), libasound2 (>= 1.0.26), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: libext2fs2
+Version: 1.42.7-r1.4
+Depends: libgcc1 (>= 4.7.2), libcom-err2 (>= 1.42.7), libblkid1 (>= 2.22.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: bc-lic
+Version: 1.06-r2.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: powerstat-lic
+Version: 0.01.17-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: gst-plugins-base-videotestsrc
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: wireless-tools-lic
+Version: 1:29-r4.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: glib-networking
+Version: 2.28.7-r3.1
+Depends: libffi6 (>= 3.0.11), libcap2 (>= 2.22), libz1 (>= 1.2.7), libgnutls26 (>= 2.12.21), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libtasn1-3 (>= 2.14), libgpg-error0 (>= 1.11), libgcrypt11 (>= 1.5.0)
+Recommends: glib-networking-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: mojomail-pop
+Version: 2.0.0-99-r3.5
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libemail-common2 (>= 2.0.0-99)
+Recommends: mojomail-pop-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: pulseaudio-misc
+Version: 3.0-r10.5
+Depends: libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: udev
+Version: 182-r7.5
+Depends: libgcc1 (>= 4.7.2), libkmod2 (>= 9), libblkid1 (>= 2.22.2), libc6 (>= 2.17)
+Recommends: usbutils-ids, update-rc.d, udev-lic, udev-utils, pciutils-ids, udev-extraconf
+Provides: hotplug
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: bluez4
+Version: 4.101-r5.5
+Depends: libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libreadline6 (>= 6.2), libusb-1.0-0 (>= 1.0.9), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libusb-0.1-4 (>= 0.1.4)
+Recommends: bluez4-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: libnl-3-lic
+Version: 1:3.2.21-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: procps
+Version: 3.2.8-r11.2
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libtinfo5 (>= 5.9), libncurses5 (>= 5.9), libc6 (>= 2.17)
+Recommends: procps-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/sysctl.conf 5dea4aa6139bcf18672cae3c5e0de8ab
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: gst-plugins-good-lic
+Version: 0.10.31-r8.9
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: filecache-lic
+Version: 2.0.0-55-r4.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: e2fsprogs
+Version: 1.42.7-r1.4
+Depends: libgcc1 (>= 4.7.2), libss2 (>= 1.42.7), libext2fs2 (>= 1.42.7), libcom-err2 (>= 1.42.7), libe2p2 (>= 1.42.7), e2fsprogs-badblocks, libc6 (>= 2.17), libblkid1 (>= 2.22.2), libuuid1 (>= 2.22.2)
+Recommends: e2fsprogs-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: icu
+Version: 50.1.2-r0.4
+Depends: libgcc1 (>= 4.7.2), libicui18n50 (>= 50.1.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17), libicudata50 (>= 50.1.2), libicutu50 (>= 50.1.2), libicuuc50 (>= 50.1.2)
+Recommends: icu-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414225
+Auto-Installed: yes
+
+Package: qt-palm-plugin-support
+Version: 0.1.0+gitr0+018fb325af82b825ab1c9c6be7f1e016a7ca3a7e-r1.7
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libc6 (>= 2.17), libfreetype6 (>= 2.4.11), libnyx5 (>= 5.1.0-66), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414216
+Auto-Installed: yes
+
+Package: packagegroup-webos-extended
+Version: 1.0-r19.5
+Depends: parted, luna-universalsearchmgr, lsb, nodejs, makedevs, browserserver, rdx-utils-stub, webos-connman-adapter, sleepd, activitymanager, dhcp-client, curl, webos-shutdownscripts, mojomail-imap, tzdata, bzip2, novacomd, mojomail-pop, core-apps, luna-sysservice, pmlogctl, libhunspell-1.3-0, luna-init, com.palm.app.browser, luna-sysmgr, keyboard-efigs, pmklogd, luna-systemui, sqlite3, libqtwebkit4, loadable-frameworks, icu, webkit-supplemental, webappmanager, ncurses, mojoservice-frameworks, luna-applauncher, browser-adapter, gzip, sysvinit-pidof, underscore, foundation-frameworks, bash, filecache, cpushareholder-stub, enyo-1.0, app-services, fbprogress, mojomail-smtp, openssl, e2fsprogs, nyx-modules, psmisc, mojolocation-stub, mojoservicelauncher, pmlogdaemon, iproute2, configurator, procps, binutils, librdx-stub
+Recommends: packagegroup-webos-extended-lic
+Provides: task-webos-extended, task-webos-core, packagegroup-webos-core
+Replaces: task-webos-extended, task-webos-core, packagegroup-webos-core
+Conflicts: task-webos-extended, task-webos-core, packagegroup-webos-core
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414239
+
+Package: libglib-2.0-locale-en-gb
+Version: 1:2.34.3-r2.1
+Recommends: virtual-locale-en-gb
+Provides: glib-2.0-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414295
+
+Package: mtdev-lic
+Version: 1.1.2-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: ca-certificates
+Version: 20130119-r3.4
+Recommends: ca-certificates-lic
+Status: install ok installed
+Architecture: all
+Conffiles:
+ /etc/ca-certificates.conf ea43e88fbe74240bfcfe48972ab97ce7
+Installed-Time: 1369414185
+Auto-Installed: yes
+
+Package: libpulsecommon
+Version: 3.0-r10.5
+Depends: libcap2 (>= 2.22), libgcc1 (>= 4.7.2), libsndfile1 (>= 1.0.25), libdbus-1-3 (>= 1.6.8), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: gst-plugins-base-lic
+Version: 0.10.36-r7.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: libnl-route-3-200
+Version: 1:3.2.21-r0.4
+Depends: libnl-3-200 (>= 3.2.21), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: distro-feed-configs
+Version: 1.0-r2.6
+Recommends: distro-feed-configs-lic
+Status: install ok installed
+Architecture: tuna
+Conffiles:
+ /etc/opkg/all-feed.conf b75a6f2b264bd8dee96a78fd8918e8f1
+ /etc/opkg/tuna-feed.conf c37cc0a41b5e810bb2df3bf14b8174aa
+ /etc/opkg/cortexa8-vfp-neon-feed.conf 45af91e89c139ab896c8410ec69fbae0
+ /etc/opkg/armv7a-vfp-neon-feed.conf 54b1a3f09744df68d9a40571751d4316
+Installed-Time: 1369414185
+Auto-Installed: yes
+
+Package: libncurses5
+Version: 5.9-r15.1.4
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: libpanelw5
+Version: 5.9-r15.1.4
+Depends: libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: ncurses-terminfo-base
+Version: 5.9-r15.1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: util-linux-cfdisk
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), libblkid1 (>= 2.22.2), libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: wpa-supplicant-lic
+Version: 2.0-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: gst-plugins-base-playbin
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: libattr1
+Version: 2.4.46-r4.5
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: luna-systemui-lic
+Version: 2.0.0-1.02+wop+gitr2+40a40f5db63b53b7ed157326729f809db062480f-r9.1
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414224
+Auto-Installed: yes
+
+Package: lsb-lic
+Version: 4.1-r6.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: ofono-lic
+Version: 1.12+git3+3ed41ee4ea3a9ff222931586c5fa90e6f9090222-r7.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: sysvinit-pidof
+Version: 2.88dsf-r12.4
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: libpng16-lic
+Version: 1.6.0-r0.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: org.webosports.app.memos
+Version: 1.0.6+gitr0+86c4e33ff7e51e80845fb564ba0e0ea99cae818d-r1.4
+Recommends: org.webosports.app.memos-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: libsndfile1
+Version: 1.0.25-r1.5
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libsndfile-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: gst-plugins-base-typefindfunctions
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: webos-telephonyd-lic
+Version: 0.1.0+gitr1+c9e3c1b478186b95a401aa4822c49575dd6b152e-r0.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: libss2
+Version: 1.42.7-r1.4
+Depends: libcom-err2 (>= 1.42.7), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: gst-plugins-good-autodetect
+Version: 0.10.31-r8.9
+Depends: libffi6 (>= 3.0.11), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), gstreamer (>= 0.10.36), gst-plugins-good, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: init-ifupdown-lic
+Version: 1.0-r2.3
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: pmklogd-lic
+Version: 2.0.0-10-r2.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414220
+Auto-Installed: yes
+
+Package: pulseaudio-module-udev-detect
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libgcc1 (>= 4.7.2), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: app-services-lic
+Version: 3.0.0-1-r5.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414234
+Auto-Installed: yes
+
+Package: update-rc.d
+Version: 0.7-r5.4
+Recommends: update-rc.d-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: util-linux-fdisk
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libblkid1 (>= 2.22.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: packagegroup-webos-ports-development
+Version: 1.0-r7.0
+Depends: alsa-utils-alsamixer, evtest, alsa-utils-alsactl, mingetty, bc, strace, gdbserver, screen, alsa-utils-amixer, org.webosports.app.testr, powerstat, gdb, serial-forward, mdbus2, opkg-utils, gst-meta-debug, alsa-utils-alsaucm, alsa-utils-aplay
+Recommends: packagegroup-webos-ports-development-lic
+Status: install user installed
+Architecture: all
+Installed-Time: 1369414164
+
+Package: libcap2
+Version: 2.22-r5.5
+Depends: libattr1 (>= 2.4.46), libc6 (>= 2.17)
+Recommends: libcap-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: tinylogin
+Version: 1.4-r9.2
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: tinylogin-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: fbprogress
+Version: 2.0.0-22-r3.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), tar, libc6 (>= 2.17)
+Recommends: fbprogress-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414234
+Auto-Installed: yes
+
+Package: evtest-lic
+Version: 1.25-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libcurl5
+Version: 7.29.0-r2.5
+Depends: libgcc1 (>= 4.7.2), libcap2 (>= 2.22), libz1 (>= 1.2.7), libcares2 (>= 1.9.1), libgnutls26 (>= 2.12.21), libc6 (>= 2.17), libtasn1-3 (>= 2.14), libgpg-error0 (>= 1.11), libgcrypt11 (>= 1.5.0)
+Recommends: curl-certs
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: luna-prefs-lic
+Version: 2.0.0-1.01-r9.8
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: libcjson1
+Version: 1.8.0-35-r3.4
+Depends: libc6 (>= 2.17)
+Recommends: libcjson-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414165
+Auto-Installed: yes
+
+Package: parted-lic
+Version: 3.1-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: python-fcntl
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: gstreamer
+Version: 0.10.36-r2.4
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libxml2 (>= 2.9.0), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: gstreamer-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: speex-lic
+Version: 1.2rc1-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: packagegroup-webos-telephony
+Version: 1.0-r1.4
+Depends: webos-telephonyd, org.webosports.app.phone
+Recommends: packagegroup-webos-telephony-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: upstart-getty
+Version: 1.0-r0.5
+Depends: upstart
+Recommends: upstart-getty-lic
+Replaces: upstart (<< 0.3.11-r10.0)
+Conflicts: upstart (<< 0.3.11-r10.0)
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: samsung-tuna-firmware
+Version: 4.1.2-r6.4
+Depends: bcm4330-firmware
+Recommends: samsung-tuna-firmware-lic
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414164
+
+Package: pmklogd
+Version: 2.0.0-10-r2.2
+Depends: libc6 (>= 2.17)
+Recommends: pmklogd-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414220
+Auto-Installed: yes
+
+Package: pulseaudio-module-always-sink
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: gst-meta-base-lic
+Version: 0.10-r13.9
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: kbd
+Version: 1.15.2-r4.4
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: kbd-lic
+Provides: console-tools
+Replaces: console-tools
+Conflicts: console-tools
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: org.webosinternals.service.upstartmgr-lic
+Version: 0.1.0+git0+ba7941c5ca2c3c13f8b149dc998354174d8241f9-r0.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: configurator-lic
+Version: 2.0.0-48-r2.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: glibmm
+Version: 2.28.2-r3.5
+Depends: libgcc1 (>= 4.7.2), libffi6 (>= 3.0.11), libstdc++6 (>= 4.7.2), libz1 (>= 1.2.7), libsigc-2.0-0 (>= 2.2.9), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: glibmm-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: libupstart0
+Version: 0.3.11-r11.0.4
+Depends: upstart (>= 0.3.11), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: pciutils-ids
+Version: 3.1.10-r0.3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414191
+Auto-Installed: yes
+
+Package: org.webosinternals.service.update-lic
+Version: 0.1.0+gitr0+fca1778af67a38e5105ea99ee86540963a031c3e-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: procps-lic
+Version: 3.2.8-r11.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414238
+Auto-Installed: yes
+
+Package: crash-handler-lic
+Version: 0.6+gitr0+3633c18f924c3fc501b5f090ec9a760890002295-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: libz1
+Version: 1.2.7-r0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libz-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: cpushareholder-stub
+Version: 2.0.1-2-r2.4
+Recommends: cpushareholder-stub-lic
+Provides: cpushareholder
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: python-stringold
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libc6 (>= 2.17), python-re
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: librolegen-lic
+Version: 2.0.0-16-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: dhcp-client
+Version: 4.2.5-r4.1
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), bash, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414207
+Auto-Installed: yes
+
+Package: ca-certificates-lic
+Version: 20130119-r3.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414185
+Auto-Installed: yes
+
+Package: libglib-2.0-0
+Version: 1:2.34.3-r2.1
+Depends: libgcc1 (>= 4.7.2), libffi6 (>= 3.0.11), libz1 (>= 1.2.7), libc6 (>= 2.17)
+Recommends: libglib-2.0-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414156
+Auto-Installed: yes
+
+Package: libcap-lic
+Version: 2.22-r5.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: busybox-lic
+Version: 1.20.2-r9.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414189
+Auto-Installed: yes
+
+Package: python-logging
+Version: 2.7.3-r0.3.5
+Depends: python-core, python-io, python-lang, python-pickle, python-stringold
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: org.webosinternals.service.update
+Version: 0.1.0+gitr0+fca1778af67a38e5105ea99ee86540963a031c3e-r1.5
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libopkg1 (>= 0.1.8+svnr649), libc6 (>= 2.17), libpbnjson (>= 1.3.0-10)
+Recommends: org.webosinternals.service.update-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: python-subprocess
+Version: 2.7.3-r0.3.5
+Depends: python-core, python-io, python-fcntl, python-pickle, python-re
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: mojolocation-stub
+Version: 2.0.0-2-r3.4
+Recommends: mojolocation-stub-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: libemail-common-lic
+Version: 2.0.0-99-r1.6
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: browserserver
+Version: 3.0.0-0.7.2+wop+gitr0+58ec890291dfa1a927faba069f8b0f1d8ac94e2d-r9.8
+Depends: libgcc1 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), ptmalloc3, qt4-webos (>= 4.8.3-4), isis-fonts, libqtwebkit4 (>= 1.3-0.54), libstdc++6 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmcertificatemgr2 (>= 2.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: browserserver-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414201
+Auto-Installed: yes
+
+Package: libicui18n50
+Version: 50.1.2-r0.4
+Depends: libgcc1 (>= 4.7.2), libicudata50 (>= 50.1.2), libicuuc50 (>= 50.1.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414205
+Auto-Installed: yes
+
+Package: libtasn1-3
+Version: 2.14-r1.4
+Depends: libc6 (>= 2.17)
+Recommends: libtasn1-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: gst-plugins-ugly-locale-en-gb
+Version: 0.10.19-r3.0
+Recommends: virtual-locale-en-gb
+Provides: gst-plugins-ugly-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414294
+
+Package: pulseaudio-module-alsa-sink
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), pulseaudio-lib-alsa-util (>= 3.0), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libpulsecore (>= 3.0), libsndfile1 (>= 1.0.25), speex (>= 1.2rc1), libc6 (>= 2.17), libasound2 (>= 1.0.26), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: iproute2-lic
+Version: 3.8.0-r2.3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414209
+Auto-Installed: yes
+
+Package: base-files-lic
+Version: 3.0.14-r80.1
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: gst-meta-audio
+Version: 0.10-r13.9
+Depends: gst-plugins-base-vorbis, gst-plugins-good-wavparse, gst-meta-base, gst-plugins-good-flac, gst-plugins-base-ogg
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: opkg-config-base-lic
+Version: 1.0-r1.6
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414188
+Auto-Installed: yes
+
+Package: netbase
+Version: 1:5.0-r0.1
+Recommends: netbase-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Conffiles:
+ /etc/hosts 27acad957c7cded40cd6ac50d23ddc66
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: connman-conf-lic
+Version: 1.0-r4.6
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: luna-sysmgr
+Version: 3.0.0-3+wop+gitr2+466853f38573bb0c06c3bba8de6a59c2e069621c-r24.4
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), libssl1.0.0 (>= 1.0.1e), liblunasysmgripc2 (>= 2.0.0-1.01), librolegen2 (>= 2.0.0-16), libwebos-gui1 (>= 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d), ptmalloc3, libsqlite3-0 (>= 3071502), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libcjson1 (>= 1.8.0-35), qt4-webos (>= 4.8.3-4), libcrypto1.0.0 (>= 1.0.1e), liblunasysmgrcommon1 (>= 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3), libc6 (>= 2.17), util-linux, libnyx5 (>= 5.1.0-66), luna-prefs (>= 2.0.0-1.01), qt-palm-plugin, luna-service2 (>= 3.3.0-149), libpmloglib3 (>= 3.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: luna-sysmgr-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: libsoup-2.4-lic
+Version: 2.40.2-r1.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414163
+Auto-Installed: yes
+
+Package: bc
+Version: 1.06-r2.0
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: bc-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414153
+Auto-Installed: yes
+
+Package: libemail-common2
+Version: 2.0.0-99-r1.6
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17), libz1 (>= 1.2.7), libcurl5 (>= 7.29.0), db8 (>= 2.0.0-67), libboost-regex1.53.0 (>= 1.53.0), libglib-2.0-0 (>= 2.34.3), libpalmsocket2 (>= 2.0.0-30), libicuuc50 (>= 50.1.2)
+Recommends: libemail-common-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414208
+Auto-Installed: yes
+
+Package: gst-plugins-ugly
+Version: 0.10.19-r3.0
+Recommends: gst-plugins-ugly-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: qt4-webos-lic
+Version: 4.8.3-4-r20.7.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: gst-plugins-base-ogg
+Version: 0.10.36-r7.4
+Depends: libgstriff-0.10-0 (>= 0.10.36), libogg0 (>= 1.3.0), libz1 (>= 1.2.7), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libxml2 (>= 2.9.0), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: libsoup-2.4-locale-en-gb
+Version: 2.40.2-r1.1
+Recommends: virtual-locale-en-gb
+Provides: libsoup-2.4-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414294
+
+Package: mojoservice-frameworks
+Version: 1.0-1.0-r4.4
+Recommends: mojoservice-frameworks-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: libgcc1
+Version: 4.7.2-r20.2
+Depends: libc6 (>= 2.17)
+Recommends: libgcc-s-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: packagegroup-core-boot-lic
+Version: 1.0-r11.5
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: browser-adapter-lic
+Version: 3.0.0-0.4-r7.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: keymaps
+Version: 1.0-r20.4
+Depends: initscripts, webos-initscripts, kbd
+Recommends: update-rc.d, keymaps-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414190
+Auto-Installed: yes
+
+Package: org.webosports.app.settings
+Version: 0.3.0+gitr0+efc30a1b4cbc99242aef72ea66ec7a3fe676f0ef-r1.4
+Depends: cordova
+Recommends: org.webosports.app.settings-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: update-rc.d-lic
+Version: 0.7-r5.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: libxml2-lic
+Version: 2.9.0-r1.1.3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: ofono-upstart
+Version: 1.12+git3+3ed41ee4ea3a9ff222931586c5fa90e6f9090222-r7.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414164
+Auto-Installed: yes
+
+Package: ncurses
+Version: 5.9-r15.1.4
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Recommends: ncurses-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: gst-plugins-base
+Version: 0.10.36-r7.4
+Recommends: gst-plugins-base-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: opkg-collateral-lic
+Version: 1.0-r2.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414150
+Auto-Installed: yes
+
+Package: qt4-webos
+Version: 4.8.3-4-r20.7.7
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), libpng16-16 (>= 1.6.0), libc6 (>= 2.17), libfreetype6 (>= 2.4.11), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libjpeg8 (>= 8d+1.2.1)
+Recommends: qt4-webos-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414196
+Auto-Installed: yes
+
+Package: mojomail-smtp
+Version: 2.0.0-99-r2.5
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libemail-common2 (>= 2.0.0-99)
+Recommends: mojomail-smtp-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: openssl-lic
+Version: 1.0.1e-r21.0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: libexpat1
+Version: 2.1.0-r0.4
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libexpat-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414154
+Auto-Installed: yes
+
+Package: sqlite3-lic
+Version: 3071502-r2.1
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414224
+Auto-Installed: yes
+
+Package: db-lic
+Version: 4.8.30-r1.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: liblunasysmgripc-lic
+Version: 2.0.0-1.01-r3.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414219
+Auto-Installed: yes
+
+Package: locale-base-en-us
+Version: 2.17-r0.2
+Depends: eglibc-binary-localedata-en-us
+Provides: virtual-locale-en-us, virtual-locale-en
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414150
+
+Package: nodejs-module-webos-pmlog
+Version: 2.0.0-10-r2.4
+Depends: libstdc++6 (>= 4.7.2), libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: nodejs-module-webos-pmlog-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: alsa-utils-alsactl
+Version: 1.0.26-r0.5
+Depends: libgcc1 (>= 4.7.2), libasound2 (>= 1.0.26), libc6 (>= 2.17)
+Recommends: alsa-states
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414152
+Auto-Installed: yes
+
+Package: libnl-nf-3-200
+Version: 1:3.2.21-r0.4
+Depends: libnl-route-3-200 (>= 3.2.21), libnl-3-200 (>= 3.2.21), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414170
+Auto-Installed: yes
+
+Package: gst-plugins-base-ffmpegcolorspace
+Version: 0.10.36-r7.4
+Depends: libffi6 (>= 3.0.11), libgstvideo-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: libasound2
+Version: 1.0.26-r2.5
+Depends: libgcc1 (>= 4.7.2), alsa-conf-base, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: pmlogdaemon
+Version: 2.0.0-102-r4.4
+Depends: busybox, pmlogconf, libz1 (>= 1.2.7), librdx-stub (>= 2.0.0-9), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmloglib3 (>= 3.0.0-27)
+Recommends: pmlogdaemon-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: pstree
+Version: 22.20-r1.2
+Depends: libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414236
+Auto-Installed: yes
+
+Package: util-linux-losetup
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: libgstriff-0.10-0
+Version: 0.10.36-r7.4
+Depends: gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libgsttag-0.10-0 (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: mojoservicelauncher
+Version: 2.0.0-71-r5.3
+Depends: libgcc1 (>= 4.7.2), mojoloader, libboost-program-options1.53.0 (>= 1.53.0), libstdc++6 (>= 4.7.2), nodejs-module-webos-pmlog, nodejs-module-webos-sysbus, libc6 (>= 2.17), nodejs-module-webos-dynaload, libpbnjson (>= 1.3.0-10)
+Recommends: mojoservicelauncher-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: libogg-lic
+Version: 1.3.0-r1.5
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: nodejs-module-webos-sysbus
+Version: 2.0.0-25-r3.6
+Depends: libgcc1 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: nodejs-module-webos-sysbus-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: gzip
+Version: 1.5-r1.2
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: gzip-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414227
+Auto-Installed: yes
+
+Package: util-linux
+Version: 2.22.2-r3.4
+Depends: libgcc1 (>= 4.7.2), update-alternatives-cworth, util-linux-swaponoff, libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libz1 (>= 1.2.7), libmount1 (>= 2.22.2), libc6 (>= 2.17), util-linux-losetup, libblkid1 (>= 2.22.2), util-linux-umount, libuuid1 (>= 2.22.2)
+Recommends: util-linux-sfdisk, util-linux-cfdisk, util-linux-mount, util-linux-lic, util-linux-fdisk, util-linux-mkfs, util-linux-readprofile
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414193
+Auto-Installed: yes
+
+Package: webappmanager-lic
+Version: 3.0.0-3+wop+gitr0+591367d418e96bc19c5250d7fbb1146919f21a50-r9.7
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414226
+Auto-Installed: yes
+
+Package: libgstaudio-0.10-0
+Version: 0.10.36-r7.4
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: libpmloglib3
+Version: 3.0.0-27-r3.0
+Depends: pmlogconf, libc6 (>= 2.17)
+Recommends: libpmloglib-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: python-compression
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), python-zlib, libbz2-0 (>= 1.0.6), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: nodejs
+Version: 0.4.12-0webos3-34-r4.4
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), libstdc++6 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), libc6 (>= 2.17)
+Recommends: nodejs-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414194
+Auto-Installed: yes
+
+Package: db
+Version: 4.8.30-r1.4
+Depends: libc6 (>= 2.17)
+Recommends: db-lic
+Conflicts: db3
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414205
+Auto-Installed: yes
+
+Package: org.webosinternals.preware
+Version: 2.0.0+gitr0+ce77b2c5e27029f4d96f3c543b79dddf08760e33-r0.4
+Depends: cordova
+Recommends: org.webosinternals.preware-lic
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: connman
+Version: 1.12-r20.0.2
+Depends: iptables (>= 1.4.17), dbus-1, ofono, libdbus-1-3 (>= 1.6.8), bluez4, libgnutls26 (>= 2.12.21), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), shadow, base-passwd, wpa-supplicant
+Recommends: update-rc.d, connman-conf, connman-lic
+Provides: connman-plugin-bluetooth, connman-plugin-ofono, connman-plugin-loopback, connman-plugin-wifi, connman-plugin-ethernet
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414171
+Auto-Installed: yes
+
+Package: libgsttag-0.10-0
+Version: 0.10.36-r7.4
+Depends: libz1 (>= 1.2.7), libxml2 (>= 2.9.0), libffi6 (>= 3.0.11), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: init-ifupdown
+Version: 1.0-r2.3
+Depends: netbase
+Recommends: update-rc.d, init-ifupdown-lic
+Conflicts: netbase (<< 1:5.0)
+Status: install ok installed
+Architecture: tuna
+Conffiles:
+ /etc/network/interfaces eb57ec5b38d7798e12b53c53f7b224cb
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: pulseaudio-module-rescue-streams
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: luna-universalsearchmgr
+Version: 2.0.0-1.00-r6.5
+Depends: libxml2 (>= 2.9.0), libc6 (>= 2.17), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libcjson1 (>= 1.8.0-35)
+Recommends: luna-universalsearchmgr-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: pulseaudio-module-filter-apply
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: luna-init-lic
+Version: 2.0.0-1.03-r7.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414214
+Auto-Installed: yes
+
+Package: libmenuw5
+Version: 5.9-r15.1.4
+Depends: libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: libudev0
+Version: 182-r7.5
+Depends: libgcc1 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414169
+Auto-Installed: yes
+
+Package: libgpg-error0
+Version: 1.11-r0.5
+Depends: libc6 (>= 2.17)
+Recommends: libgpg-error-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: luna-prefs
+Version: 2.0.0-1.01-r9.8
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libsqlite3-0 (>= 3071502), libcjson1 (>= 1.8.0-35), libc6 (>= 2.17)
+Recommends: luna-prefs-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414166
+Auto-Installed: yes
+
+Package: libltdl7
+Version: 2.4.2-r6.0.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414179
+Auto-Installed: yes
+
+Package: libjpeg-lic
+Version: 8d+1.2.1-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414202
+Auto-Installed: yes
+
+Package: pulseaudio-module-alsa-card
+Version: 3.0-r10.5
+Depends: libltdl7 (>= 2.4.2), libpulse0 (>= 3.0), pulseaudio-lib-alsa-util (>= 3.0), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), libpulsecore (>= 3.0), libsndfile1 (>= 1.0.25), speex (>= 1.2rc1), libc6 (>= 2.17), libasound2 (>= 1.0.26), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: libflac8
+Version: 1.2.1-r4.4
+Depends: libgcc1 (>= 4.7.2), libogg0 (>= 1.3.0), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414183
+Auto-Installed: yes
+
+Package: speex
+Version: 1.2rc1-r2.4
+Depends: libc6 (>= 2.17)
+Recommends: speex-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414179
+Auto-Installed: yes
+
+Package: glib-networking-locale-en-gb
+Version: 2.28.7-r3.1
+Recommends: virtual-locale-en-gb
+Provides: glib-networking-locale, en-gb-translation
+Status: install user installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414295
+
+Package: pulseaudio-module-augment-properties
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414180
+Auto-Installed: yes
+
+Package: gst-plugins-good-debug
+Version: 0.10.31-r8.9
+Depends: libgcc1 (>= 4.7.2), gstreamer (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libffi6 (>= 3.0.11), gst-plugins-good, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414160
+Auto-Installed: yes
+
+Package: python-pickle
+Version: 2.7.3-r0.3.5
+Depends: libpython2.7-1.0 (>= 2.7.3), python-codecs, python-core, python-io, libc6 (>= 2.17), python-re
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414158
+Auto-Installed: yes
+
+Package: libhybris
+Version: 1:0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def-r2.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libhybris-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414195
+Auto-Installed: yes
+
+Package: pulseaudio-module-position-event-sounds
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: org.webosports.app.calendar-lic
+Version: 0.0.1+gitr0+5c1db766ce0ce50929010f787ea995539f66d2a3-r1.4
+Status: install ok installed
+Architecture: all
+Installed-Time: 1369414187
+Auto-Installed: yes
+
+Package: android-audiosystem-lic
+Version: 1.8+bzr43-r3.0
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: pulseaudio-module-default-device-restore
+Version: 3.0-r10.5
+Depends: speex (>= 1.2rc1), libpulse0 (>= 3.0), libsndfile1 (>= 1.0.25), libpulsecommon (>= 3.0), libsamplerate0 (>= 0.1.8), libcap2 (>= 2.22), libdbus-1-3 (>= 1.6.8), libpulsecore (>= 3.0), libltdl7 (>= 2.4.2), libc6 (>= 2.17), libjson0 (>= 0.9)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414181
+Auto-Installed: yes
+
+Package: gst-plugins-base-alsa
+Version: 0.10.36-r7.4
+Depends: gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), libgstinterfaces-0.10-0 (>= 0.10.36), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libasound2 (>= 1.0.26), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: gst-meta-debug
+Version: 0.10-r13.9
+Depends: gst-plugins-good-debug, gst-meta-base, gst-plugins-base-audiotestsrc, gst-plugins-base-videotestsrc
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414162
+Auto-Installed: yes
+
+Package: libjson-lic
+Version: 0.9-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414173
+Auto-Installed: yes
+
+Package: libpbnjson-lic
+Version: 1.3.0-10-r2.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414167
+Auto-Installed: yes
+
+Package: libformw5
+Version: 5.9-r15.1.4
+Depends: libncursesw5 (>= 5.9), libtinfo5 (>= 5.9), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414151
+Auto-Installed: yes
+
+Package: libicudata50
+Version: 50.1.2-r0.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414205
+Auto-Installed: yes
+
+Package: qt-palm-plugin
+Version: 0.1.0+gitr0+018fb325af82b825ab1c9c6be7f1e016a7ca3a7e-r1.7
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libstdc++6 (>= 4.7.2), libfreetype6 (>= 2.4.11), libnyx5 (>= 5.1.0-66), qt-palm-plugin-support, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: qt-palm-plugin-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414216
+Auto-Installed: yes
+
+Package: wpa-supplicant-passphrase
+Version: 2.0-r2.5
+Depends: libgcrypt11 (>= 1.5.0), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: eglibc-binary-localedata-en-gb
+Version: 2.17-r0.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414150
+Auto-Installed: yes
+
+Package: packagegroup-webos-ports-extended
+Version: 1.0-r25.0
+Depends: org.webosinternals.service.upstartmgr, gst-meta-base, packagegroup-webos-telephony, webos-connman-adapter, pulseaudio-misc, org.webosinternals.service.update, android-system-image-tuna, android-audiosystem, pulseaudio-server, org.webosinternals.ipkgservice, token-generator, gst-meta-video, org.webosports.app.settings, org.webosinternals.preware, org.webosports.app.memos, wireless-tools, gst-plugins-ugly-lame, org.webosports.service.licenses, ca-certificates, distro-feed-configs, org.webosports.app.calendar, gst-plugins-good-pulse, crash-handler, android-system-compat, gst-meta-audio, bluez4, gst-plugins-ugly-mad, org.webosports.app.firstuse
+Recommends: packagegroup-webos-ports-extended-lic
+Status: install user installed
+Architecture: tuna
+Installed-Time: 1369414188
+
+Package: core-apps
+Version: 3.0.0-2+wop+gitr0+8ac6fe5262ad7dc22ddc6678e1b7fee4c78f08b5-r10.4
+Recommends: core-apps-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: wireless-tools
+Version: 1:29-r4.2
+Depends: libc6 (>= 2.17)
+Recommends: wireless-tools-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: gst-plugins-base-decodebin
+Version: 0.10.36-r7.4
+Depends: libffi6 (>= 3.0.11), libgstpbutils-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), gstreamer (>= 0.10.36), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), gst-plugins-base
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414161
+Auto-Installed: yes
+
+Package: libe2p2
+Version: 1.42.7-r1.4
+Depends: libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414235
+Auto-Installed: yes
+
+Package: filecache
+Version: 2.0.0-55-r4.5
+Depends: libgcc1 (>= 4.7.2), libboost-system1.53.0 (>= 1.53.0), glibmm (>= 2.28.2), libc6 (>= 2.17), libboost-filesystem1.53.0 (>= 1.53.0), db8 (>= 2.0.0-67), luna-service2 (>= 3.3.0-149), libsigc-2.0-0 (>= 2.2.9), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3)
+Recommends: filecache-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414228
+Auto-Installed: yes
+
+Package: nodejs-module-webos-pmlog-lic
+Version: 2.0.0-10-r2.4
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414237
+Auto-Installed: yes
+
+Package: connman-conf
+Version: 1.0-r4.6
+Recommends: connman-conf-lic
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414172
+Auto-Installed: yes
+
+Package: python-zlib
+Version: 2.7.3-r0.3.5
+Depends: python-core, libpython2.7-1.0 (>= 2.7.3), libz1 (>= 1.2.7), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414159
+Auto-Installed: yes
+
+Package: libogg0
+Version: 1.3.0-r1.5
+Depends: libc6 (>= 2.17)
+Recommends: libogg-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414182
+Auto-Installed: yes
+
+Package: pmlogctl-lic
+Version: 2.0.0-11-r2.2
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414212
+Auto-Installed: yes
+
+Package: libboost-regex1.53.0
+Version: 1.53.0-r1.4
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414206
+Auto-Installed: yes
+
+Package: udev-extraconf
+Version: 1.0-r11.1
+Depends: udev
+Recommends: udev-extraconf-lic
+Provides: udev-extra-rules
+Replaces: udev-extra-rules
+Conflicts: udev-extra-rules
+Status: install ok installed
+Architecture: tuna
+Conffiles:
+ /etc/udev/mount.blacklist e9d30e0c326a0ab6bbe3f5d3085e1769
+Installed-Time: 1369414192
+Auto-Installed: yes
+
+Package: libfreetype6
+Version: 2.4.11-r0.5
+Depends: libc6 (>= 2.17)
+Recommends: libfreetype-lic
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414195
+Auto-Installed: yes
+
+Package: gst-plugins-ugly-lame
+Version: 0.10.19-r3.0
+Depends: gstreamer (>= 0.10.36), libgstpbutils-0.10-0 (>= 0.10.36), libgstaudio-0.10-0 (>= 0.10.36), libxml2 (>= 2.9.0), libz1 (>= 1.2.7), gst-plugins-ugly, libffi6 (>= 3.0.11), libmp3lame0 (>= 3.99.5), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libgstinterfaces-0.10-0 (>= 0.10.36)
+Status: install ok installed
+Architecture: cortexa8-vfp-neon
+Installed-Time: 1369414184
+Auto-Installed: yes
+
+Package: token-generator-lic
+Version: 1.0-r1.4
+Status: install ok installed
+Architecture: tuna
+Installed-Time: 1369414182
+Auto-Installed: yes
+

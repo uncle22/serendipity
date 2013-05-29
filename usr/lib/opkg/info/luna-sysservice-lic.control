@@ -1,0 +1,13 @@
+Package: luna-sysservice-lic
+Version: 2.0.1-1.04-r5.7
+Description: Provides image manipulation, preference, timezone and ringtone services for Open webOS components
+ Provides image manipulation, preference, timezone and ringtone services
+ for Open webOS components
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-sysservice
+Homepage: unknown
+Source: git://github.com/openwebos/luna-sysservice

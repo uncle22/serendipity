@@ -1,0 +1,2 @@
+/sbin/telinit
+/sbin/telinit.upstart 200

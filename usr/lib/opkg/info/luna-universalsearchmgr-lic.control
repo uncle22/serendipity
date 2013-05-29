@@ -1,0 +1,12 @@
+Package: luna-universalsearchmgr-lic
+Version: 2.0.0-1.00-r6.5
+Description: Open webOS Just Type daemon
+ Open webOS Just Type daemon
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: luna-universalsearchmgr
+Homepage: unknown
+Source: git://github.com/openwebos/luna-universalsearchmgr

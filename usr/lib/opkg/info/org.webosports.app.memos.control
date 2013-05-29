@@ -1,0 +1,13 @@
+Package: org.webosports.app.memos
+Version: 1.0.6+gitr0+86c4e33ff7e51e80845fb564ba0e0ea99cae818d-r1.4
+Description: Memos app re-written from scratch for Open webOS
+ Memos app re-written from scratch for Open webOS
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: org.webosports.app.memos
+Homepage: unknown
+Recommends: org.webosports.app.memos-lic
+Source: git://github.com/webOS-ports/org.webosports.app.memos;protocol=git

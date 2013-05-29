@@ -1,0 +1,14 @@
+Package: lsb
+Version: 4.1-r6.4
+Description: lsb version 4.1-r6
+ LSB support for OpenEmbedded
+Section: console/utils
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: lsb
+Homepage: http://prdownloads.sourceforge.net/lsb
+Depends: util-linux
+Recommends: lsb-lic
+Source: http://downloads.sourceforge.net/project/lsb/lsb_release/1.4/lsb-release-1.4.tar.gz file://init-functions file://lsb_killproc file://lsb_log_message file://lsb_pidofproc file://lsb_start_daemon file://fix-lsb_release-to-work-with-busybox-head-and-find.patch file://fix-lsb_release-to-work-if-there-are-parens-in-release-codename.patch

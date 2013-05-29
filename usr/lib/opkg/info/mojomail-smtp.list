@@ -1,0 +1,3 @@
+/usr/share/dbus-1/system-services/com.palm.smtp.service
+/usr/share/ls2/roles/prv/com.palm.smtp.json
+/usr/bin/mojomail-smtp

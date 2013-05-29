@@ -1,0 +1,6 @@
+/usr/sbin/webos-telephonyd
+/usr/share/dbus-1/services/webos-telephonyd.service
+/usr/share/ls2/roles/prv/webos-telephonyd.json
+/etc/event.d/webos-telephonyd
+/usr/share/dbus-1/system-services/webos-telephonyd.service
+/usr/share/ls2/roles/pub/webos-telephonyd.json

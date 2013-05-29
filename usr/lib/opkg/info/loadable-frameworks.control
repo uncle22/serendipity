@@ -1,0 +1,13 @@
+Package: loadable-frameworks
+Version: 1.0-1.0.1-r4.4
+Description: Loadable frameworks component for the core applications
+ Loadable frameworks component for the core applications
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: loadable-frameworks
+Homepage: unknown
+Recommends: loadable-frameworks-lic
+Source: git://github.com/openwebos/loadable-frameworks

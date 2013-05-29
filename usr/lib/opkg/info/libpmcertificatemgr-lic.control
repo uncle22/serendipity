@@ -1,0 +1,13 @@
+Package: libpmcertificatemgr-lic
+Version: 2.0.0-27-r4.4
+Description: Provides certificate storage and wrapper API on openssl certificate manipulation functions
+ Provides certificate storage and wrapper API on openssl certificate
+ manipulation functions
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmcertificatemgr
+Homepage: unknown
+Source: git://github.com/openwebos/pmcertificatemgr

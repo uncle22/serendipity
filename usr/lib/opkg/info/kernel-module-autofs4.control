@@ -1,0 +1,13 @@
+Package: kernel-module-autofs4
+Version: 3:3.0.31+gitr0+8edd340bab8010c9170c59de29a8e65f7f576749-r12.1
+Description: linux-samsung-tuna version 3.0.31+gitrAUTOINC+8edd340bab8010c9170c59de29a8e65f7f576749-r12
+ autofs4 kernel module
+Section: kernel
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: tuna
+OE: linux-samsung-tuna
+Homepage: unknown
+Depends: kernel-3.0.31
+Source: git://github.com/shr-distribution/linux.git;protocol=git;branch=tuna/3.0/master file://defconfig

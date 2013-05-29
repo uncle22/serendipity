@@ -1,0 +1,14 @@
+Package: libpalmsocket2
+Version: 2.0.0-30-r2.5
+Description: Palm Socket Library with SSL Support
+ Palm Socket Library with SSL Support
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: libpalmsocket
+Homepage: unknown
+Depends: libssl1.0.0 (>= 1.0.1e), libcrypto1.0.0 (>= 1.0.1e), libcares2 (>= 1.9.1), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmloglib3 (>= 3.0.0-27)
+Recommends: libpalmsocket-lic
+Source: git://github.com/openwebos/libpalmsocket

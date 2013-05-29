@@ -1,0 +1,12 @@
+/etc/palm/db/kinds/com.palm.pop.uidcache
+/usr/palm/public/accounts/com.palm.pop/
+/usr/share/dbus-1/system-services/com.palm.pop.service
+/usr/palm/public/accounts/com.palm.pop/images/popmail48.png
+/usr/palm/public/accounts/com.palm.pop/images/popmail32.png
+/usr/share/ls2/roles/prv/com.palm.pop.json
+/etc/palm/db/kinds/com.palm.pop.account
+/usr/bin/mojomail-pop
+/usr/palm/public/accounts/com.palm.pop/com.palm.pop.json
+/etc/palm/db/kinds/com.palm.pop.folder
+/usr/palm/public/accounts/com.palm.pop/images/
+/etc/palm/db/kinds/com.palm.pop.email

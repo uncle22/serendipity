@@ -1,0 +1,6 @@
+/usr/share/ls2/roles/prv/org.webosinternals.service.update.json
+/usr/share/dbus-1/system-services/org.webosinternals.service.update.service
+/usr/share/dbus-1/services/org.webosinternals.service.update.service
+/usr/share/ls2/roles/pub/org.webosinternals.service.update.json
+/etc/event.d/org.webosinternals.service.update
+/usr/sbin/org.webosinternals.service.update

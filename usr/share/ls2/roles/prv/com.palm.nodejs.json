@@ -1,0 +1,7 @@
+{
+    "role": {
+        "exeName":"/usr/bin/node",
+        "type": "privileged",
+        "allowedNames": ["*"]
+    }
+}

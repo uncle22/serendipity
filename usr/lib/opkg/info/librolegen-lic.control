@@ -1,0 +1,13 @@
+Package: librolegen-lic
+Version: 2.0.0-16-r1.4
+Description: Library for dynamically generating webOS system bus role files for webOS JavaScript services
+ Library for dynamically generating webOS system bus role files for webOS
+ JavaScript services
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: librolegen
+Homepage: unknown
+Source: git://github.com/openwebos/librolegen

@@ -1,0 +1,14 @@
+Package: qt4-webos
+Version: 4.8.3-4-r20.7.7
+Description: Open webOS edition of the Qt4 cross-platform application framework
+ Open webOS edition of the Qt4 cross-platform application framework
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2.1 | GPLv3
+Architecture: tuna
+OE: qt4-webos
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), libpng16-16 (>= 1.6.0), libc6 (>= 2.17), libfreetype6 (>= 2.4.11), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libjpeg8 (>= 8d+1.2.1)
+Recommends: qt4-webos-lic
+Source: git://github.com/openwebos/qt file://0002-webkit2-set-OUTPUT_DIR-value-if-empty.patch file://0013-configure-add-crossarch-option.patch file://keyboard-support-compilation-fix.patch file://disable-webos-qpa-plugins.patch file://0001-Extended-QPlatformWindow-class-to-provide-a-method-t.patch

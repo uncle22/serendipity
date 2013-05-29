@@ -1,0 +1,14 @@
+Package: libhunspell-1.3-0
+Version: 1.3.2-r1.2
+Description: hunspell version 1.3.2-r1
+ Hunspell spell checker and morphological analyzer
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPL-2.1 & MPL-1.1
+Architecture: cortexa8-vfp-neon
+OE: hunspell
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libhunspell-1.3-lic
+Source: http://downloads.sourceforge.net/hunspell/hunspell-1.3.2.tar.gz

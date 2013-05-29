@@ -1,0 +1,12 @@
+Package: isis-fonts-lic
+Version: 1.0.0-0.1-r0.4
+Description: Isis-fonts package from isis-project
+ Isis-fonts package from isis-project
+Section: webos/fonts
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: isis-fonts
+Homepage: unknown
+Source: git://github.com/isis-project/isis-fonts

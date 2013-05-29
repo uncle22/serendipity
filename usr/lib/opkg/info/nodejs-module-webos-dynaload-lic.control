@@ -1,0 +1,13 @@
+Package: nodejs-module-webos-dynaload-lic
+Version: 2.0.0-11-r2.4
+Description: A module for nodejs that allows dynamic loading and execution of Javascript files
+ A module for nodejs that allows dynamic loading and execution of
+ Javascript files
+Section: webos/nodejs/module
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: nodejs-module-webos-dynaload
+Homepage: unknown
+Source: git://github.com/openwebos/nodejs-module-webos-dynaload

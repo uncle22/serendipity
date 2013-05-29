@@ -1,0 +1,14 @@
+Package: pmlogdaemon
+Version: 2.0.0-102-r4.4
+Description: Open webos logging daemon
+ Open webos logging daemon
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmlogdaemon
+Homepage: unknown
+Depends: busybox, pmlogconf, libz1 (>= 1.2.7), librdx-stub (>= 2.0.0-9), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmloglib3 (>= 3.0.0-27)
+Recommends: pmlogdaemon-lic
+Source: git://github.com/openwebos/pmlogdaemon

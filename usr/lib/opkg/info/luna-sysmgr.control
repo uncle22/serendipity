@@ -1,0 +1,14 @@
+Package: luna-sysmgr
+Version: 3.0.0-3+wop+gitr2+466853f38573bb0c06c3bba8de6a59c2e069621c-r24.4
+Description: Open webOS System Manager
+ Open webOS System Manager
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-sysmgr
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libhybris (>= 0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def), libssl1.0.0 (>= 1.0.1e), liblunasysmgripc2 (>= 2.0.0-1.01), librolegen2 (>= 2.0.0-16), libwebos-gui1 (>= 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d), ptmalloc3, libsqlite3-0 (>= 3071502), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), libcjson1 (>= 1.8.0-35), qt4-webos (>= 4.8.3-4), libcrypto1.0.0 (>= 1.0.1e), liblunasysmgrcommon1 (>= 3.0.0-3+wop+gitr0+7767cdea0562602f5782f6ecbda16d989087b6c3), libc6 (>= 2.17), util-linux, libnyx5 (>= 5.1.0-66), luna-prefs (>= 2.0.0-1.01), qt-palm-plugin, luna-service2 (>= 3.3.0-149), libpmloglib3 (>= 3.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: luna-sysmgr-lic
+Source: git://github.com/webOS-ports/luna-sysmgr;branch=webOS-ports/master

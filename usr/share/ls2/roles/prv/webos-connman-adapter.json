@@ -1,0 +1,20 @@
+{
+    "role": {
+        "exeName":"/usr/sbin/webos-connman-adapter",
+        "type": "regular",
+        "allowedNames": ["com.palm.wifi", "com.palm.connectionmanager"]
+    },
+    "permissions": [
+        {
+            "service":"com.palm.wifi",
+            "inbound":["*"],
+            "outbound":["*"]
+        },
+        {
+            "service":"com.palm.connectionmanager",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+
+    ]
+}

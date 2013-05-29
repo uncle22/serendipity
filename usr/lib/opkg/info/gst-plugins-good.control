@@ -1,0 +1,13 @@
+Package: gst-plugins-good
+Version: 0.10.31-r8.9
+Description: gst-plugins-good version 0.10.31-r8
+ Plugins for GStreamer
+Section: multimedia
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2.1+
+Architecture: cortexa8-vfp-neon
+OE: gst-plugins-good
+Homepage: http://gstreamer.freedesktop.org/
+Recommends: gst-plugins-good-lic
+Source: http://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-0.10.31.tar.bz2 file://0001-v4l2-fix-build-with-recent-kernels-the-v4l2_buffer-i.patch

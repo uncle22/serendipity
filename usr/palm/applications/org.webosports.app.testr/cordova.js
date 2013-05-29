@@ -1,0 +1,1 @@
+/usr/palm/frameworks/cordova/cordova.js

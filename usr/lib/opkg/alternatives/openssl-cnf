@@ -1,0 +1,3 @@
+/usr/lib/ssl/openssl.cnf
+/usr/lib/ssl/openssl.cnf.openssl 1
+/usr/lib/ssl/openssl.cnf.pmcertificatemgr 10

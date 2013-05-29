@@ -1,0 +1,12 @@
+Package: makedevs-lic
+Version: 1.0.0-r7.2
+Description: makedevs version 1.0.0-r7
+ A tool to make device nodes
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: makedevs
+Homepage: unknown
+Source: file://makedevs.c file://COPYING.patch

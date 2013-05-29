@@ -1,0 +1,9 @@
+/usr/sbin/powerd
+/usr/share/ls2/roles/pub/com.palm.power.json
+/usr/lib/libpowerd.so.4
+/usr/share/dbus-1/services/com.palm.power.service
+/usr/share/dbus-1/system-services/com.palm.power.service
+/etc/event.d/powerd
+/usr/share/ls2/roles/prv/com.palm.power.json
+/usr/lib/libpowerd.so.4.0.0
+/etc/default/powerd.conf

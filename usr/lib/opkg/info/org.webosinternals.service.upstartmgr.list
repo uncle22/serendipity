@@ -1,0 +1,13 @@
+/usr/share/dbus-1/services/org.webosinternals.service.upstartmgr.service
+/usr/share/ls2/roles/pub/
+/usr/sbin/org.webosinternals.service.upstartmgr
+/usr/share/dbus-1/system-services/org.webosinternals.service.upstartmgr.service
+/usr/share/ls2/
+/usr/share/ls2/roles/prv/org.webosinternals.service.upstartmgr.json
+/etc/event.d/org.webosinternals.service.upstartmgr
+/usr/share/dbus-1/
+/usr/share/ls2/roles/
+/usr/share/dbus-1/system-services/
+/usr/share/ls2/roles/prv/
+/usr/share/ls2/roles/pub/org.webosinternals.service.upstartmgr.json
+/usr/share/dbus-1/services/

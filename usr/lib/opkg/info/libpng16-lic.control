@@ -1,0 +1,12 @@
+Package: libpng16-lic
+Version: 1.6.0-r0.1
+Description: PNG Library
+ PNG Library
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Libpng
+Architecture: cortexa8-vfp-neon
+OE: libpng
+Homepage: http://www.libpng.org/
+Source: http://downloads.sourceforge.net/project/libpng/libpng16/1.6.0/libpng-1.6.0.tar.xz

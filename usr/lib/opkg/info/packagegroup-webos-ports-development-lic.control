@@ -1,0 +1,12 @@
+Package: packagegroup-webos-ports-development-lic
+Version: 1.0-r7.0
+Description: packagegroup-webos-ports-development version 1.0-r7
+ Development components use by the webOS ports project
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: packagegroup-webos-ports-development
+Homepage: unknown
+Source: None

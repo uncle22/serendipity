@@ -1,0 +1,14 @@
+Package: parted
+Version: 3.1-r1.4
+Description: parted version 3.1-r1
+ parted, the GNU partition resizing program
+Section: console/tools
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv3+
+Architecture: cortexa8-vfp-neon
+OE: parted
+Homepage: http://www.gnu.org/software/parted/parted.html
+Depends: libgcc1 (>= 4.7.2), libtinfo5 (>= 5.9), libreadline6 (>= 6.2), libc6 (>= 2.17), libblkid1 (>= 2.22.2), libuuid1 (>= 2.22.2)
+Recommends: parted-lic
+Source: ftp://ftp.gnu.org/gnu/parted/parted-3.1.tar.xz file://no_check.patch file://syscalls.patch file://fix-git-version-gen.patch file://fix-doc-mandir.patch file://fix-dvh-overflows.patch

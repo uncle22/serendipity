@@ -1,0 +1,13 @@
+Package: bluez4-lic
+Version: 4.101-r5.5
+Description: Linux Bluetooth Stack Userland V4
+ Linux Bluetooth stack V4 userland components.  These include a system
+ configurations, daemons, tools and system libraries.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2.1+
+Architecture: cortexa8-vfp-neon
+OE: bluez4
+Homepage: http://www.bluez.org
+Source: http://kernel.org/pub/linux/bluetooth/bluez-4.101.tar.gz file://bluetooth.conf file://sbc_mmx.patch file://fix-udev-paths.patch file://obsolete_automake_macros.patch

@@ -1,0 +1,12 @@
+Package: libpbnjson-lic
+Version: 1.3.0-10-r2.2
+Description: Palm's Better Native JSON library
+ Palm's Better Native JSON library
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: libpbnjson
+Homepage: unknown
+Source: git://github.com/openwebos/libpbnjson

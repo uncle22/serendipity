@@ -1,0 +1,12 @@
+Package: org.webosports.app.calendar-lic
+Version: 0.0.1+gitr0+5c1db766ce0ce50929010f787ea995539f66d2a3-r1.4
+Description: Calendar app re-written from scratch for Open webOS
+ Calendar app re-written from scratch for Open webOS
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: org.webosports.app.calendar
+Homepage: unknown
+Source: git://github.com/webOS-ports/org.webosports.app.calendar;protocol=git

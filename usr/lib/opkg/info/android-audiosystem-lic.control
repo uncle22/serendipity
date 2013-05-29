@@ -1,0 +1,13 @@
+Package: android-audiosystem-lic
+Version: 1.8+bzr43-r3.0
+Description: android-audiosystem version 1.8+bzr43-r3
+ The Android Audio Subsystem wrapper that uses binder to connect with
+ Android's AudioFlinger.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPL-2.1 & Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: android-audiosystem
+Homepage: unknown
+Source: bzr://bazaar.launchpad.net/~phablet-team/android-audiosystem/trunk;protocol=http file://dont-use-specific-sysroot.patch;striplevel=0 file://asound.conf

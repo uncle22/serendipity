@@ -1,0 +1,12 @@
+Package: mojoservice-frameworks-lic
+Version: 1.0-1.0-r4.4
+Description: Loadable frameworks for sync services
+ Loadable frameworks for sync services
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: mojoservice-frameworks
+Homepage: unknown
+Source: git://github.com/openwebos/mojoservice-frameworks

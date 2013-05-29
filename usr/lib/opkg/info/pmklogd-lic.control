@@ -1,0 +1,12 @@
+Package: pmklogd-lic
+Version: 2.0.0-10-r2.2
+Description: Kernel logging daemon
+ Kernel logging daemon
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmklogd
+Homepage: unknown
+Source: git://github.com/openwebos/pmklogd

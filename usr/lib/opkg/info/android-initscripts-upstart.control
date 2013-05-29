@@ -1,0 +1,12 @@
+Package: android-initscripts-upstart
+Version: 1.0-r8.0
+Description: android-initscripts version 1.0-r8
+ Several initscripts to startup daemons from Android compatibility layer
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: android-initscripts
+Homepage: unknown
+Source: file://android_finish.upstart file://init.rc file://pvrinit.conf

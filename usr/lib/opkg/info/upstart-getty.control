@@ -1,0 +1,16 @@
+Package: upstart-getty
+Version: 1.0-r0.5
+Description: upstart-getty version 1.0-r0
+ tty configuration for upstart
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: tuna
+OE: upstart-getty
+Homepage: unknown
+Depends: upstart
+Recommends: upstart-getty-lic
+Replaces: upstart (<< 0.3.11-r10.0)
+Conflicts: upstart (<< 0.3.11-r10.0)
+Source: None

@@ -1,0 +1,12 @@
+Package: bc-lic
+Version: 1.06-r2.0
+Description: bc version 1.06-r2
+ An arbitrary precision calculator language.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2.1
+Architecture: cortexa8-vfp-neon
+OE: bc
+Homepage: http://www.gnu.org/software/bc/bc.html
+Source: ftp://ftp.gnu.org/gnu/bc/bc-1.06.tar.gz

@@ -1,0 +1,12 @@
+Package: connman-conf-lic
+Version: 1.0-r4.6
+Description: connman-conf version 1.0-r4
+ connman-conf version 1.0-r4
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: tuna
+OE: connman-conf
+Homepage: unknown
+Source: file://wired-setup

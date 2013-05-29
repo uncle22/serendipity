@@ -1,0 +1,14 @@
+Package: update-alternatives-cworth
+Version: 1:0.1.8+svnr649-r16.0.4
+Description: opkg version 0.1.8+svnr649-r16.0
+ Update alternatives
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: opkg
+Homepage: http://code.google.com/p/opkg/
+Provides: update-alternatives
+Conflicts: update-alternatives-dpkg
+Source: svn://opkg.googlecode.com/svn;module=trunk;protocol=http file://obsolete_automake_macros.patch

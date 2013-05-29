@@ -1,0 +1,8 @@
+/usr/palm/services/com.palm.location/
+/usr/palm/services/com.palm.location/sources.json
+/usr/palm/services/com.palm.location/services.json
+/usr/share/dbus-1/system-services/com.palm.location.service
+/usr/share/dbus-1/services/com.palm.location.service
+/usr/palm/services/com.palm.location/GetCurrentPositionCommandAssistant.js
+/usr/share/ls2/roles/pub/com.palm.location.json
+/usr/share/ls2/roles/prv/com.palm.location.json

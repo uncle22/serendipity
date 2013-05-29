@@ -1,0 +1,13 @@
+Package: webos-shutdownscripts
+Version: 2.1.0-36-r1.4
+Description: Open webOS shutdown scripts
+ Open webOS shutdown scripts
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: webos-shutdownscripts
+Homepage: unknown
+Recommends: webos-shutdownscripts-lic
+Source: git://github.com/openwebos/webos-shutdownscripts

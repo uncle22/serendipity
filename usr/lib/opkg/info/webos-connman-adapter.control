@@ -1,0 +1,14 @@
+Package: webos-connman-adapter
+Version: 1.0.0-9-r2.8
+Description: webos-connman-adapter version 1.0.0-9-r2
+ Open webOS component for managing network connections using connman
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: webos-connman-adapter
+Homepage: unknown
+Depends: libcrypto1.0.0 (>= 1.0.1e), libc6 (>= 2.17), luna-prefs (>= 2.0.0-1.01), luna-service2 (>= 3.3.0-149), libpbnjson (>= 1.3.0-10), libglib-2.0-0 (>= 2.34.3), connman, libpmloglib3 (>= 3.0.0-27)
+Recommends: webos-connman-adapter-lic
+Source: git://github.com/openwebos/webos-connman-adapter file://0001-Don-t-treat-none-as-security-type.patch

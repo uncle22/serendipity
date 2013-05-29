@@ -1,0 +1,10 @@
+/etc/event.d/logd
+/sbin/logd
+/usr/lib/libnih.so.0.0.0
+/sbin/initctl
+/sbin/start
+/sbin/stop
+/usr/lib/libnih.so.0
+/sbin/status
+/sbin/init.upstart
+/sbin/telinit.upstart

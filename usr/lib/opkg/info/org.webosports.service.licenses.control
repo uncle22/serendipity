@@ -1,0 +1,14 @@
+Package: org.webosports.service.licenses
+Version: 0.1.0+gitr0+16b9eac8620944af04547234520f1a9f39b0bb62-r0.4
+Description: License management service for the webOS ports project
+ License management service for the webOS ports project
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: all
+OE: org.webosports.service.licenses
+Homepage: unknown
+Depends: luna-service2
+Recommends: org.webosports.service.licenses-lic
+Source: git://github.com/webOS-ports/org.webosports.service.licenses;branch=master;protocol=git

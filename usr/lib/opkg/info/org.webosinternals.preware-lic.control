@@ -1,0 +1,12 @@
+Package: org.webosinternals.preware-lic
+Version: 2.0.0+gitr0+ce77b2c5e27029f4d96f3c543b79dddf08760e33-r0.4
+Description: Preware is a webOS on-device homebrew installer.
+ Preware is a webOS on-device homebrew installer.
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: all
+OE: org.webosinternals.preware
+Homepage: unknown
+Source: git://github.com/webOS-ports/preware;protocol=git;branch=master

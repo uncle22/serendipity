@@ -1,0 +1,12 @@
+/etc/palm/browser/InteractiveWidgetRect.schema
+/etc/palm/browser/HitTest.schema
+/usr/share/dbus-1/system-services/com.palm.browserServer.service
+/etc/palm/browser/
+/usr/share/dbus-1/services/com.palm.browserServer.service
+/etc/palm/backup/
+/etc/palm/backup/com.palm.browserServer
+/etc/event.d/browserserver
+/usr/share/ls2/roles/prv/com.palm.browserServer.json
+/usr/bin/BrowserServer
+/etc/palm/BrowserServer.conf
+/usr/share/ls2/roles/pub/com.palm.browserServer.json

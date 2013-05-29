@@ -1,0 +1,12 @@
+Package: org.webosports.app.phone-lic
+Version: 0.1.0+gitr0+6b959f3749de0ed41f7e01bfc83e67adc8bf6207-r0.4
+Description: Phone app written from scratch for Open webOS
+ Phone app written from scratch for Open webOS
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: org.webosports.app.phone
+Homepage: unknown
+Source: git://github.com/webOS-ports/org.webosports.app.phone;protocol=git

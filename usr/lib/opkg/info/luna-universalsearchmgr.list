@@ -1,0 +1,10 @@
+/usr/share/dbus-1/services/com.palm.universalsearch.service
+/usr/palm/universalsearchmgr/resources/
+/usr/sbin/LunaUniversalSearchMgr
+/usr/share/ls2/roles/prv/com.palm.universalsearch.json
+/usr/share/ls2/roles/pub/com.palm.universalsearch.json
+/etc/event.d/LunaUniversalSearchMgr
+/usr/palm/universalsearchmgr/resources/en_us/UniversalSearchList.json
+/usr/palm/universalsearchmgr/resources/en_us/
+/usr/palm/universalsearchmgr/
+/usr/share/dbus-1/system-services/com.palm.universalsearch.service

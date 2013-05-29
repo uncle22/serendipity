@@ -1,0 +1,13 @@
+Package: pmlogconf
+Version: 2.0.0-16-r2.4
+Description: Open webOS logging daemon configuration
+ Open webOS logging daemon configuration
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: pmlogconf
+Homepage: unknown
+Recommends: pmlogconf-lic
+Source: git://github.com/openwebos/pmlogconf

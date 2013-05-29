@@ -1,0 +1,12 @@
+Package: configurator-lic
+Version: 2.0.0-48-r2.5
+Description: Creates the database schema for Open webOS apps
+ Creates the database schema for Open webOS apps
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: configurator
+Homepage: unknown
+Source: git://github.com/openwebos/configurator

@@ -1,0 +1,14 @@
+Package: ofono-upstart
+Version: 1.12+git3+3ed41ee4ea3a9ff222931586c5fa90e6f9090222-r7.0
+Description: open source telephony
+ oFono is a stack for mobile telephony devices on Linux. oFono supports
+ speaking to telephony devices through specific drivers, or with generic
+ AT commands.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: ofono
+Homepage: http://www.ofono.org
+Source: git://github.com/webOS-ports/ofono-ubuntu.git;protocol=git;branch=master file://ofono file://ofono.upstart

@@ -1,0 +1,11 @@
+{
+	"id": "com.palm.app.calculator",
+	"version": "3.0.1300",
+	"vendor": "HP",
+	"type": "web",
+	"main": "index.html",
+	"title": "Calculator",
+	"icon": "icon.png",
+	"uiRevision": "2",
+	"removable": false
+}

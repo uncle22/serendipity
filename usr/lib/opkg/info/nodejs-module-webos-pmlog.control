@@ -1,0 +1,15 @@
+Package: nodejs-module-webos-pmlog
+Version: 2.0.0-10-r2.4
+Description: A module for nodejs that allows Javascript access to the Open webOS logging system
+ A module for nodejs that allows Javascript access to the Open webOS
+ logging system
+Section: webos/nodejs/module
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: nodejs-module-webos-pmlog
+Homepage: unknown
+Depends: libstdc++6 (>= 4.7.2), libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: nodejs-module-webos-pmlog-lic
+Source: git://github.com/openwebos/nodejs-module-webos-pmlog

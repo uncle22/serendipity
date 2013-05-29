@@ -1,0 +1,14 @@
+Package: librdx-stub
+Version: 2.0.0-9-r4.4
+Description: Stubbed version of the webOS Remote Diagnostics Library
+ Stubbed version of the webOS Remote Diagnostics Library
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: librdx-stub
+Homepage: unknown
+Depends: libc6 (>= 2.17)
+Recommends: librdx-lic
+Source: git://github.com/openwebos/librdx-stub

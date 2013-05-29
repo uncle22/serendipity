@@ -1,0 +1,14 @@
+Package: webkit-supplemental
+Version: 2.0.0-0.5-r7.8
+Description: WebKit supplemental features for Open webOS
+ WebKit supplemental features for Open webOS
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: webkit-supplemental
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), qt4-webos (>= 4.8.3-4), libc6 (>= 2.17), libfreetype6 (>= 2.4.11), libstdc++6 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3)
+Recommends: webkit-supplemental-lic
+Source: git://github.com/isis-project/WebKitSupplemental

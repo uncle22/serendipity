@@ -1,0 +1,15 @@
+Package: org.webosinternals.service.update
+Version: 0.1.0+gitr0+fca1778af67a38e5105ea99ee86540963a031c3e-r1.5
+Description: Update management service for Open webOS
+ Update management service for Open webOS
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: org.webosinternals.service.update
+Homepage: unknown
+Tags: RestartDevice, RestartLuna
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libopkg1 (>= 0.1.8+svnr649), libc6 (>= 2.17), libpbnjson (>= 1.3.0-10)
+Recommends: org.webosinternals.service.update-lic
+Source: git://github.com/webOS-ports/org.webosinternals.service.update;branch=master;protocol=git

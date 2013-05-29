@@ -1,0 +1,14 @@
+Package: gst-meta-video
+Version: 0.10-r13.9
+Description: gst-meta-base version 0.10-r13
+ Gstreamer package groups
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: gst-meta-base
+Homepage: unknown
+Depends: gst-plugins-good-avi, gst-plugins-good-matroska, gst-plugins-base-theora, gst-meta-base
+Recommends: gst-meta-audio
+Source: None

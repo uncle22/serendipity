@@ -1,0 +1,14 @@
+Package: mojomail-smtp
+Version: 2.0.0-99-r2.5
+Description: SMTP transport service for sending emails
+ SMTP transport service for sending emails
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: mojomail-smtp
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), db8 (>= 2.0.0-67), luna-service2, libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libemail-common2 (>= 2.0.0-99)
+Recommends: mojomail-smtp-lic
+Source: git://github.com/openwebos/mojomail

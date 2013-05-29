@@ -1,0 +1,14 @@
+Package: upstart
+Version: 0.3.11-r11.0.4
+Description: upstart version 0.3.11-r11.0
+ Event driven system init
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: upstart
+Homepage: unknown
+Depends: update-alternatives-cworth, libc6 (>= 2.17)
+Recommends: upstart-sysvcompat, upstart-lic, upstart-getty, libupstart0
+Source: http://upstart.ubuntu.com/download/0.3/upstart-0.3.11.tar.bz2;name=upstart http://upstart.ubuntu.com/download/example-jobs/0.3/example-jobs-0.3.11.tar.gz;name=compat file://init/rcS-default file://init/rc file://init/rcS

@@ -1,0 +1,12 @@
+Package: keyboard-efigs-lic
+Version: 3.0.0-2+wop+gitr0+fc69babb308f11ee3f42334af393f51a2d9be198-r3.7
+Description: Open webOS default virtual keyboard
+ Open webOS default virtual keyboard
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: keyboard-efigs
+Homepage: unknown
+Source: git://github.com/webOS-ports/keyboard-efigs;branch=webOS-ports/master

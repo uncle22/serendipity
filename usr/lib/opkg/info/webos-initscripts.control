@@ -1,0 +1,14 @@
+Package: webos-initscripts
+Version: 2.0.0-123-r2.4
+Description: Event-driven startup scripts for system services
+ Event-driven startup scripts for system services
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0 & MIT
+Architecture: all
+OE: webos-initscripts
+Homepage: unknown
+Depends: upstart
+Recommends: webos-initscripts-lic
+Source: git://github.com/openwebos/webos-initscripts file://cpufreq-setup.upstart

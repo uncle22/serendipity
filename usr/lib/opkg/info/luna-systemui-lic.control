@@ -1,0 +1,12 @@
+Package: luna-systemui-lic
+Version: 2.0.0-1.02+wop+gitr2+40a40f5db63b53b7ed157326729f809db062480f-r9.1
+Description: WebOS user interface support module
+ WebOS user interface support module
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-systemui
+Homepage: unknown
+Source: git://github.com/webOS-ports/luna-systemui;branch=webOS-ports/master

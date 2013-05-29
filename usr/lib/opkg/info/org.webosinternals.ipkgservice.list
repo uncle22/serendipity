@@ -1,0 +1,6 @@
+/etc/event.d/org.webosinternals.ipkgservice
+/usr/sbin/org.webosinternals.ipkgservice
+/usr/share/dbus-1/services/org.webosinternals.ipkgservice.service
+/usr/share/ls2/roles/pub/org.webosinternals.ipkgservice.json
+/usr/share/ls2/roles/prv/org.webosinternals.ipkgservice.json
+/usr/share/dbus-1/system-services/org.webosinternals.ipkgservice.service

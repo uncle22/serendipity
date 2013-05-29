@@ -1,0 +1,12 @@
+Package: packagegroup-webos-telephony-lic
+Version: 1.0-r1.4
+Description: packagegroup-webos-telephony version 1.0-r1
+ Telephony components use by the Open webOS ports project
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: packagegroup-webos-telephony
+Homepage: unknown
+Source: None

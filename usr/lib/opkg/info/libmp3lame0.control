@@ -1,0 +1,13 @@
+Package: libmp3lame0
+Version: 3.99.5-r1.0
+Description: lame version 3.99.5-r1
+ LAME is an educational tool to be used for learning about MP3 encoding.
+Section: console/utils
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2+
+Architecture: cortexa8-vfp-neon
+OE: lame
+Homepage: http://sourceforge.net/projects/lame/files/lame/
+Depends: libc6 (>= 2.17)
+Source: http://downloads.sourceforge.net/lame/lame-3.99.5.tar.gz file://no-gtk1.patch file://lame-3.99.5_fix_for_automake-1.12.x.patch

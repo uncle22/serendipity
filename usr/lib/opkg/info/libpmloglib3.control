@@ -1,0 +1,14 @@
+Package: libpmloglib3
+Version: 3.0.0-27-r3.0
+Description: Open webOS logging library
+ Open webOS logging library
+Section: webos/libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmloglib
+Homepage: unknown
+Depends: pmlogconf, libc6 (>= 2.17)
+Recommends: libpmloglib-lic
+Source: git://github.com/openwebos/pmloglib

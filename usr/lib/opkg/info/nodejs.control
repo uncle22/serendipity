@@ -1,0 +1,14 @@
+Package: nodejs
+Version: 0.4.12-0webos3-34-r4.4
+Description: Node.js event-based server-side JavaScript engine
+ Node.js event-based server-side JavaScript engine
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT & Zlib
+Architecture: cortexa8-vfp-neon
+OE: nodejs
+Homepage: http://nodejs.org
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), libstdc++6 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), libc6 (>= 2.17)
+Recommends: nodejs-lic
+Source: git://github.com/openwebos/nodejs

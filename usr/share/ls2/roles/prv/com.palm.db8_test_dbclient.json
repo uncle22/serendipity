@@ -1,0 +1,14 @@
+{
+    "role": {
+        "exeName":"/usr/lib/db8/tests/test_dbclient",
+        "type": "regular",
+        "allowedNames": ["mojodbclient-test"]
+    },
+    "permissions": [
+        {
+            "service":"mojodbclient-test",
+            "inbound":["*"],
+            "outbound":["*"]
+        }
+    ]
+}

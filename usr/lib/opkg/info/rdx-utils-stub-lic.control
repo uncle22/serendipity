@@ -1,0 +1,12 @@
+Package: rdx-utils-stub-lic
+Version: 2.0.0-1-r2.4
+Description: Stubbed implementation of the webOS Remote Diagnostics Utilities
+ Stubbed implementation of the webOS Remote Diagnostics Utilities
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: rdx-utils-stub
+Homepage: unknown
+Source: git://github.com/openwebos/rdx-utils-stub

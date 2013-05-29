@@ -1,0 +1,14 @@
+Package: serial-forward
+Version: 1:1.1+gitr0+2725c6c18cace2acaf4f20c0748300dcea4dd90c-r0.2
+Description: serial-forward version 1.1+gitrAUTOINC+2725c6c18cace2acaf4f20c0748300dcea4dd90c-r0
+ Forward a serial using TCP/IP
+Section: console/devel
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: serial-forward
+Homepage: unknown
+Depends: libc6 (>= 2.17)
+Recommends: serial-forward-lic
+Source: git://git.freesmartphone.org/cornucopia.git/;protocol=git

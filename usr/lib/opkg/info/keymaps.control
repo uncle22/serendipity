@@ -1,0 +1,14 @@
+Package: keymaps
+Version: 1.0-r20.4
+Description: Keyboard maps
+ Keymaps and initscript to set the keymap on bootup.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: tuna
+OE: keymaps
+Homepage: unknown
+Depends: initscripts, webos-initscripts, kbd
+Recommends: update-rc.d, keymaps-lic
+Source: file://keymap.sh file://GPLv2.patch

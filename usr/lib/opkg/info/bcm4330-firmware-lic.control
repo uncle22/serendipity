@@ -1,0 +1,12 @@
+Package: bcm4330-firmware-lic
+Version: 4.1.2-r2.4
+Description: bcm4330-firmware version 4.1.2-r2
+ Properitary firmware binaries needed for the BCM4330 wifi/bt chip
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Properitary
+Architecture: tuna
+OE: bcm4330-firmware
+Homepage: unknown
+Source: https://github.com/webOS-ports/android_hardware_broadcom_wlan/archive/android-4.1.2_r1.zip;name=hardware_broadcom;downloadfilename=android_hardware_broadcom_wlan-android-4.1.2_r1.zip

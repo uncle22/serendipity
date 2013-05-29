@@ -1,0 +1,13 @@
+Package: luna-applauncher
+Version: 3.0.0-1.00+wop+gitr0+e497bc1e349dbe73f56eb0e95c8da8c1f7be2b28-r11.4
+Description: Just Type application for Open webOS
+ Just Type application for Open webOS
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-applauncher
+Homepage: unknown
+Recommends: luna-applauncher-lic
+Source: git://github.com/webOS-ports/luna-applauncher;branch=webOS-ports/master

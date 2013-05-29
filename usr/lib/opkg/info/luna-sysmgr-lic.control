@@ -1,0 +1,12 @@
+Package: luna-sysmgr-lic
+Version: 3.0.0-3+wop+gitr2+466853f38573bb0c06c3bba8de6a59c2e069621c-r24.4
+Description: Open webOS System Manager
+ Open webOS System Manager
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: luna-sysmgr
+Homepage: unknown
+Source: git://github.com/webOS-ports/luna-sysmgr;branch=webOS-ports/master

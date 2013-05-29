@@ -1,0 +1,12 @@
+Package: libsamplerate0-lic
+Version: 0.1.8-r1.5
+Description: libsamplerate0 version 0.1.8-r1
+ An audio Sample Rate Conversion library
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: libsamplerate0
+Homepage: unknown
+Source: http://www.mega-nerd.com/SRC/libsamplerate-0.1.8.tar.gz

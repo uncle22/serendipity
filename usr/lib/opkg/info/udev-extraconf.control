@@ -1,0 +1,18 @@
+Package: udev-extraconf
+Version: 1.0-r11.1
+Description: Extra machine specific configuration files
+ Extra machine specific configuration files for udev, specifically
+ blacklist information.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: udev-extraconf
+Homepage: unknown
+Depends: udev
+Recommends: udev-extraconf-lic
+Provides: udev-extra-rules
+Replaces: udev-extra-rules
+Conflicts: udev-extra-rules
+Source: file://automount.rules file://mount.sh file://mount.blacklist file://autonet.rules file://network.sh file://localextra.rules file://tuna-pulseaudio.rules file://tuna-modem.rules

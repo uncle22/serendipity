@@ -1,0 +1,16 @@
+Package: dhcp-client
+Version: 4.2.5-r4.1
+Description: Internet Software Consortium DHCP package
+ DHCP (Dynamic Host Configuration Protocol) is a protocol which allows
+ individual devices on an IP network to get their own network
+ configuration information from a server.  DHCP helps make it easier to
+ administer devices.
+Section: console/network
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: ISC
+Architecture: cortexa8-vfp-neon
+OE: dhcp
+Homepage: http://www.isc.org/
+Depends: libgcc1 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), bash, libc6 (>= 2.17)
+Source: ftp://ftp.isc.org/isc/dhcp/4.2.5/dhcp-4.2.5.tar.gz file://site.h file://init-relay file://default-relay file://init-server file://default-server file://dhclient.conf file://dhcpd.conf file://fixincludes.patch file://dhcp-3.0.3-dhclient-dbus.patch;striplevel=0 file://fix-external-bind.patch file://link-with-lcrypto.patch file://fixsepbuild.patch file://no_bash_required-webos.patch file://dhclient.upstart

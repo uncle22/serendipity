@@ -1,0 +1,14 @@
+Package: ptmalloc3
+Version: 1.0-r1.4
+Description: ptmalloc3 version 1.0-r1
+ Multi-thread malloc implementation
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD
+Architecture: cortexa8-vfp-neon
+OE: ptmalloc3
+Homepage: http://www.malloc.de/en/
+Depends: libc6 (>= 2.17)
+Recommends: ptmalloc3-lic
+Source: http://www.malloc.de/malloc/ptmalloc3-current.tar.gz file://ptmalloc3-current-webos.patch

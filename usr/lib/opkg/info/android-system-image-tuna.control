@@ -1,0 +1,15 @@
+Package: android-system-image-tuna
+Version: 20130519-43-r4.1.0
+Description: android-system-image-tuna version 20130519-43-r4.1
+ Tiny Android system to leverage android hardware drivers through
+ libhybris
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0 & Properietary
+Architecture: tuna
+OE: android-system-image-tuna
+Homepage: unknown
+Recommends: android-system-image-tuna-lic
+Provides: virtual/android-system-image
+Source: http://build.webos-ports.org/phablet/maguro/phablet-maguro-20130519-43.tar.bz2

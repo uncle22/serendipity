@@ -1,0 +1,7 @@
+/etc/event.d/filecache
+/usr/share/dbus-1/services/com.palm.filecache.service
+/etc/palm/FileCache.conf
+/usr/share/ls2/roles/prv/com.palm.filecache.json
+/usr/share/dbus-1/system-services/com.palm.filecache.service
+/usr/sbin/filecache
+/usr/share/ls2/roles/pub/com.palm.filecache.json

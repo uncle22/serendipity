@@ -1,0 +1,15 @@
+Package: nodejs-module-webos-sysbus
+Version: 2.0.0-25-r3.6
+Description: A module for nodejs that allows Javascript access to the Open webOS system bus
+ A module for nodejs that allows Javascript access to the Open webOS
+ system bus
+Section: webos/nodejs/module
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: nodejs-module-webos-sysbus
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libglib-2.0-0 (>= 2.34.3), luna-service2 (>= 3.3.0-149), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: nodejs-module-webos-sysbus-lic
+Source: git://github.com/openwebos/nodejs-module-webos-sysbus

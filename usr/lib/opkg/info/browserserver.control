@@ -1,0 +1,14 @@
+Package: browserserver
+Version: 3.0.0-0.7.2+wop+gitr0+58ec890291dfa1a927faba069f8b0f1d8ac94e2d-r9.8
+Description: Web rendering daemon for the isis-browser
+ Web rendering daemon for the isis-browser
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: browserserver
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libssl1.0.0 (>= 1.0.1e), ptmalloc3, qt4-webos (>= 4.8.3-4), isis-fonts, libqtwebkit4 (>= 1.3-0.54), libstdc++6 (>= 4.7.2), libcrypto1.0.0 (>= 1.0.1e), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3), libpmcertificatemgr2 (>= 2.0.0-27), libpbnjson (>= 1.3.0-10)
+Recommends: browserserver-lic
+Source: git://github.com/webOS-ports/BrowserServer;branch=webOS-ports/master

@@ -1,0 +1,14 @@
+Package: libmjson-lic
+Version: 1.0.1-r0.4
+Description: mjson version 1.0.1-r0
+ M's JSON parser is a small library completely written in plain ISO C
+ which handles documents described by the JavaScript Object Notation
+ (JSON) data interchange format.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2
+Architecture: cortexa8-vfp-neon
+OE: mjson
+Homepage: unknown
+Source: http://downloads.help.palm.com/opensource/3.0.5/mjson-1.0.1.tgz;name=source http://downloads.help.palm.com/opensource/3.0.5/mjson-1.0.1-patch.gz;downloadfilename=mjson-1.0.1.patch.gz;name=patch;striplevel=0

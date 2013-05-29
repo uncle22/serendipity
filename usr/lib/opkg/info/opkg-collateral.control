@@ -1,0 +1,13 @@
+Package: opkg-collateral
+Version: 1.0-r2.2
+Description: opkg-collateral version 1.0-r2
+ opkg configuration files
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: opkg-collateral
+Homepage: unknown
+Recommends: opkg-collateral-lic
+Source: file://opkg.conf.comments file://dest file://src

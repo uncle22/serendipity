@@ -1,0 +1,12 @@
+Package: powerd-lic
+Version: 4.0.0-19-r3.6
+Description: Power policy daemon
+ Power policy daemon
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: powerd
+Homepage: unknown
+Source: git://github.com/openwebos/powerd

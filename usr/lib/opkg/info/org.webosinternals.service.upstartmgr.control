@@ -1,0 +1,14 @@
+Package: org.webosinternals.service.upstartmgr
+Version: 0.1.0+git0+ba7941c5ca2c3c13f8b149dc998354174d8241f9-r0.5
+Description: Upstart management service for Open webOS
+ Upstart management service for Open webOS
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: org.webosinternals.service.upstartmgr
+Homepage: unknown
+Depends: libglib-2.0-0 (>= 2.34.3), libmjson0 (>= 1.0.1), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17)
+Recommends: org.webosinternals.service.upstartmgr-lic
+Source: git://github.com/webOS-ports/org.webosinternals.service.upstartmgr;branch=master;protocol=git

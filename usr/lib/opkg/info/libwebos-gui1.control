@@ -1,0 +1,14 @@
+Package: libwebos-gui1
+Version: 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d-r0.4
+Description: webOS graphics library
+ webOS graphics library
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: libwebos-gui
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libz1 (>= 1.2.7), libstdc++6 (>= 4.7.2), libffi6 (>= 3.0.11), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: libwebos-gui-lic
+Source: git://github.com/webOS-ports/libwebos-gui;branch=master;protocol=git

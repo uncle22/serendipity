@@ -1,0 +1,14 @@
+Package: fbprogress
+Version: 2.0.0-22-r3.4
+Description: Utility for drawing progress to the frame buffer
+ Utility for drawing progress to the frame buffer
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: fbprogress
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), tar, libc6 (>= 2.17)
+Recommends: fbprogress-lic
+Source: git://github.com/openwebos/fbprogress

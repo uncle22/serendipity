@@ -1,0 +1,14 @@
+Package: luna-service2
+Version: 3.3.0-149-r9.4
+Description: Open webOS Luna System Bus library, daemon, and utilities
+ Open webOS Luna System Bus library, daemon, and utilities
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: luna-service2
+Homepage: unknown
+Depends: libglib-2.0-0 (>= 2.34.3), luna-service2, libcjson1 (>= 1.8.0-35), libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: luna-service2-lic
+Source: git://github.com/openwebos/luna-service2

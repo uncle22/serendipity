@@ -1,0 +1,13 @@
+Package: libtheora-lic
+Version: 1.1.1-r1.2
+Description: Theora Video Codec
+ The libtheora reference implementation provides the standard encoder and
+ decoder under a BSD license.
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD
+Architecture: cortexa8-vfp-neon
+OE: libtheora
+Homepage: http://xiph.org/
+Source: http://downloads.xiph.org/releases/theora/libtheora-1.1.1.tar.bz2 file://no-docs.patch

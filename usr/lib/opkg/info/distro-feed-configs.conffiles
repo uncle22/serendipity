@@ -1,0 +1,4 @@
+/etc/opkg/all-feed.conf
+/etc/opkg/tuna-feed.conf
+/etc/opkg/cortexa8-vfp-neon-feed.conf
+/etc/opkg/armv7a-vfp-neon-feed.conf

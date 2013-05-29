@@ -1,0 +1,14 @@
+Package: mojoservicelauncher
+Version: 2.0.0-71-r5.3
+Description: Open webOS component responsible for launching the node.js services
+ Open webOS component responsible for launching the node.js services
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: mojoservicelauncher
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), mojoloader, libboost-program-options1.53.0 (>= 1.53.0), libstdc++6 (>= 4.7.2), nodejs-module-webos-pmlog, nodejs-module-webos-sysbus, libc6 (>= 2.17), nodejs-module-webos-dynaload, libpbnjson (>= 1.3.0-10)
+Recommends: mojoservicelauncher-lic
+Source: git://github.com/openwebos/mojoservicelauncher file://disable-jailing-per-default.patch

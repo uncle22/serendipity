@@ -1,0 +1,13 @@
+Package: gst-meta-audio
+Version: 0.10-r13.9
+Description: gst-meta-base version 0.10-r13
+ Gstreamer package groups
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: cortexa8-vfp-neon
+OE: gst-meta-base
+Homepage: unknown
+Depends: gst-plugins-base-vorbis, gst-plugins-good-wavparse, gst-meta-base, gst-plugins-good-flac, gst-plugins-base-ogg
+Source: None

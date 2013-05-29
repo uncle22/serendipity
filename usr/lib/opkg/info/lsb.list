@@ -1,0 +1,15 @@
+/lib/lsb/
+/etc/core-lsb/lsb_log_message
+/usr/lib/lsb/install_initd
+/bin/lsb_release
+/etc/opt/
+/etc/core-lsb/lsb_pidofproc
+/etc/webos-release
+/etc/core-lsb/lsb_start_daemon
+/usr/lib/lsb/remove_initd
+/lib/lsb/init-functions
+/usr/lib/sendmail
+/etc/core-lsb/
+/usr/lib/lsb/
+/etc/core-lsb/lsb_killproc
+/var/opt/

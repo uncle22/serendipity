@@ -1,0 +1,14 @@
+Package: libjpeg-lic
+Version: 8d+1.2.1-r2.4
+Description: libjpeg-turbo version 8d+1.2.1-r2
+ libjpeg-turbo is a derivative of libjpeg that uses SIMD instructions
+ (MMX, SSE2, NEON) to accelerate baseline JPEG compression and
+ decompression
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD-3-Clause
+Architecture: cortexa8-vfp-neon
+OE: libjpeg-turbo
+Homepage: http://libjpeg-turbo.org/
+Source: svn://libjpeg-turbo.svn.sourceforge.net/svnroot/libjpeg-turbo;protocol=https;module=trunk

@@ -1,0 +1,6 @@
+/usr/share/ls2/roles/pub/com.palm.webappmgr.json
+/usr/bin/WebAppMgr
+/usr/share/dbus-1/system-services/com.palm.webappmgr.service
+/etc/event.d/WebAppMgr
+/usr/share/ls2/roles/prv/com.palm.webappmgr.json
+/usr/share/dbus-1/services/com.palm.webappmgr.service

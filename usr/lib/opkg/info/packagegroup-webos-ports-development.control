@@ -1,0 +1,14 @@
+Package: packagegroup-webos-ports-development
+Version: 1.0-r7.0
+Description: packagegroup-webos-ports-development version 1.0-r7
+ Development components use by the webOS ports project
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: packagegroup-webos-ports-development
+Homepage: unknown
+Depends: alsa-utils-alsamixer, evtest, alsa-utils-alsactl, mingetty, bc, strace, gdbserver, screen, alsa-utils-amixer, org.webosports.app.testr, powerstat, gdb, serial-forward, mdbus2, opkg-utils, gst-meta-debug, alsa-utils-alsaucm, alsa-utils-aplay
+Recommends: packagegroup-webos-ports-development-lic
+Source: None

@@ -1,0 +1,8 @@
+/usr/share/ls2/roles/pub/com.palm.sleep.json
+/etc/default/sleepd.conf
+/usr/share/dbus-1/services/com.palm.sleep.service
+/usr/sbin/sleepd
+/usr/share/dbus-1/system-services/com.palm.sleep.service
+/usr/share/ls2/roles/prv/com.palm.sleep.json
+/usr/sbin/suspend_action
+/etc/event.d/sleepd

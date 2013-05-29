@@ -1,0 +1,13 @@
+Package: shadow-securetty
+Version: 4.1.4.3-r3.5
+Description: Provider of the machine specific securetty file
+ Provider of the machine specific securetty file
+Section: base utils
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: shadow-securetty
+Homepage: unknown
+Recommends: shadow-securetty-lic
+Source: file://securetty

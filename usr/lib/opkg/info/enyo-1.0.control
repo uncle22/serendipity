@@ -1,0 +1,13 @@
+Package: enyo-1.0
+Version: 1.0-128.2+wop+gitr0+82188d68bd87ff2f32988a5ffc7b445a97bbeea5-r6.4
+Description: Enyo 1.0 JavaScript application framework
+ Enyo 1.0 JavaScript application framework
+Section: webos/frameworks
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: enyo-1.0
+Homepage: unknown
+Recommends: enyo-1.0-lic
+Source: git://github.com/webOS-ports/enyo-1.0;branch=webOS-ports/master

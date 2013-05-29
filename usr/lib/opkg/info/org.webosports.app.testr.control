@@ -1,0 +1,14 @@
+Package: org.webosports.app.testr
+Version: 0.1.0+gitr0+fd156a1dbd81dff8930760139afdfb5b8c9b6989-r0.0
+Description: Testing app for webOS ports
+ Testing app for webOS ports
+Section: webos/apps
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: org.webosports.app.testr
+Homepage: unknown
+Depends: cordova
+Recommends: org.webosports.app.testr-lic
+Source: git://github.com/webOS-ports/org.webosports.app.testr;protocol=git

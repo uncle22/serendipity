@@ -1,0 +1,14 @@
+Package: liburiparser1
+Version: 0.7.7-r0.4
+Description: uriparser version 0.7.7-r0
+ RFC 3986 compliant URI parsing library
+Section: uriparser
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD
+Architecture: cortexa8-vfp-neon
+OE: uriparser
+Homepage: unknown
+Depends: libc6 (>= 2.17)
+Recommends: liburiparser-lic
+Source: http://downloads.sourceforge.net/project/uriparser/Sources/0.7.7/uriparser-0.7.7.tar.bz2

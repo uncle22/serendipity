@@ -1,0 +1,14 @@
+Package: cordova
+Version: 2.3.0+wop+gitr0+368e2da0c0db11f219560ec1c10ca0417df0c1c4-r0.4
+Description: PhoneGap is a web platform that exposes native mobile device apis and data to JavaScript.
+ PhoneGap is a web platform that exposes native mobile device apis and
+ data to JavaScript.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: cordova
+Homepage: http://phonegap.com/
+Recommends: cordova-lic
+Source: git://github.com/webOS-ports/phonegap;branch=webOS-ports/master

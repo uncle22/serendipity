@@ -1,0 +1,12 @@
+Package: packagegroup-core-boot-lic
+Version: 1.0-r11.5
+Description: Minimal boot requirements
+ The minimal set of packages required to boot the system
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: packagegroup-core-boot
+Homepage: unknown
+Source: None

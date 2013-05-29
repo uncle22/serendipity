@@ -1,0 +1,14 @@
+Package: org.webosinternals.ipkgservice
+Version: 2.0.0+git0+65cb032e6d61a3190ff58bc76b485d4ccf864702-r1.5
+Description: Package management service for Open webOS
+ Package management service for Open webOS
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: org.webosinternals.ipkgservice
+Homepage: unknown
+Depends: libglib-2.0-0 (>= 2.34.3), libmjson0 (>= 1.0.1), luna-service2 (>= 3.3.0-149), libc6 (>= 2.17)
+Recommends: org.webosinternals.ipkgservice-lic
+Source: git://github.com/webOS-ports/preware;protocol=git;branch=master

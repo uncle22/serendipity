@@ -1,0 +1,15 @@
+Package: libhybris
+Version: 1:0.1.0+gitr0+1739817c3c9fb451f10316499953584feb3a2def-r2.4
+Description: libhybris version 0.1.0+gitrAUTOINC+1739817c3c9fb451f10316499953584feb3a2def-r2
+ Hybris is a solution that commits hybris, by allowing us to use bionic-
+ based HW adaptations in glibc systems
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: libhybris
+Homepage: unknown
+Depends: libgcc1 (>= 4.7.2), libstdc++6 (>= 4.7.2), libc6 (>= 2.17)
+Recommends: libhybris-lic
+Source: git://github.com/webOS-ports/libhybris.git;branch=webOS-ports/master;protocol=git

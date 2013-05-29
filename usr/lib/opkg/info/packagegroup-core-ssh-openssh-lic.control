@@ -1,0 +1,12 @@
+Package: packagegroup-core-ssh-openssh-lic
+Version: 1.0-r1.4
+Description: OpenSSH SSH client/server
+ OpenSSH SSH client/server
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: all
+OE: packagegroup-core-ssh-openssh
+Homepage: unknown
+Source: None

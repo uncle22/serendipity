@@ -1,0 +1,13 @@
+Package: distro-feed-configs
+Version: 1.0-r2.6
+Description: distro-feed-configs version 1.0-r2
+ Configuration files for online package repositories aka feeds
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: distro-feed-configs
+Homepage: unknown
+Recommends: distro-feed-configs-lic
+Source: None

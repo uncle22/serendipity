@@ -1,0 +1,6 @@
+#!/bin/sh
+	update-alternatives --install /sbin/reboot reboot /sbin/reboot.upstart 200
+	update-alternatives --install /sbin/halt halt /sbin/halt.upstart 200
+	update-alternatives --install /sbin/poweroff poweroff /sbin/poweroff.upstart 200
+	update-alternatives --install /sbin/shutdown shutdown /sbin/shutdown.upstart 200
+	update-alternatives --install /sbin/telinit telinit /sbin/telinit.upstart 200

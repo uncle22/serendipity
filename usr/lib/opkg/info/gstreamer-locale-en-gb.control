@@ -1,0 +1,17 @@
+Package: gstreamer-locale-en-gb
+Version: 0.10.36-r2.4
+Description: GStreamer multimedia framework - en_GB translations
+ GStreamer is a multimedia framework for encoding and decoding video and
+ sound. It supports a wide range of formats including mp3, ogg, avi, mpeg
+ and quicktime.  This package contains language translation files for the
+ en_GB locale.
+Section: multimedia
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: LGPLv2+
+Architecture: cortexa8-vfp-neon
+OE: gstreamer
+Homepage: http://gstreamer.freedesktop.org/
+Recommends: virtual-locale-en-gb
+Provides: gstreamer-locale, en-gb-translation
+Source: http://gstreamer.freedesktop.org/src/gstreamer/gstreamer-0.10.36.tar.bz2 file://check_fix.patch file://gst-inspect-check-error.patch

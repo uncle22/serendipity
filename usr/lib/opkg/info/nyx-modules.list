@@ -1,0 +1,15 @@
+/usr/lib/nyx/modules/nyxTouchpanelMain.module
+/usr/lib/nyx/modules/nyxBatteryMain.module
+/usr/lib/nyx/modules/
+/usr/lib/nyx/
+/usr/lib/nyx/modules/nyxSystemMain.module
+/usr/lib/nyx/modules/nyxSecurityMain.module
+/usr/lib/nyx/modules/nyxKeysMain.module
+/usr/lib/nyx/modules/nyxHapticsMain.module
+/usr/lib/nyx/modules/nyxDisplayMain.module
+/usr/lib/nyx/modules/nyxOSInfoMain.module
+/usr/lib/nyx/modules/nyxSensorAlsDefault.module
+/usr/lib/nyx/modules/nyxMicroControllerLEDsDefault.module
+/usr/lib/nyx/modules/nyxChargerMain.module
+/etc/udev/rules.d/99-nyx-modules.rules
+/usr/bin/nyx-test-ledcontroller

@@ -1,0 +1,17 @@
+Package: packagegroup-core-boot
+Version: 1.0-r11.5
+Description: Minimal boot requirements
+ The minimal set of packages required to boot the system
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: packagegroup-core-boot
+Homepage: unknown
+Depends: tinylogin, busybox, modutils-initscripts, busybox-hwclock, upstart, keymaps, update-alternatives-cworth, udev, initscripts, webos-initscripts, netbase, base-files, init-ifupdown, base-passwd
+Recommends: packagegroup-core-boot-lic
+Provides: task-core-boot
+Replaces: task-core-boot
+Conflicts: task-core-boot
+Source: None

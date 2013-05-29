@@ -1,0 +1,12 @@
+Package: activitymanager-lic
+Version: 2.0.0-110-r2.5
+Description: activitymanager version 2.0.0-110-r2
+ Open webOS component to manage all running activities.
+Section: webos/dameons
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: activitymanager
+Homepage: unknown
+Source: git://github.com/openwebos/activitymanager

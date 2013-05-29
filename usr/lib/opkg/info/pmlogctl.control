@@ -1,0 +1,14 @@
+Package: pmlogctl
+Version: 2.0.0-11-r2.2
+Description: Open webOS logging control application
+ Open webOS logging control application
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: pmlogctl
+Homepage: unknown
+Depends: pmlogconf, libpmloglib3 (>= 3.0.0-27), libc6 (>= 2.17)
+Recommends: pmlogctl-lic
+Source: git://github.com/openwebos/pmlogctl

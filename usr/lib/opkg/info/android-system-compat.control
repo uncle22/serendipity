@@ -1,0 +1,13 @@
+Package: android-system-compat
+Version: 1.0-r0.2
+Description: android-system-compat version 1.0-r0
+ Several scripts and config files to archive compatibilty with Android
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: android-system-compat
+Homepage: unknown
+Recommends: android-system-compat-lic
+Source: file://android-system-devs.rules

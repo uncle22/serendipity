@@ -1,0 +1,14 @@
+Package: libcap2
+Version: 2.22-r5.5
+Description: libcap version 2.22-r5
+ support for getting/setting POSIX.1e capabilities
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: BSD | GPLv2
+Architecture: cortexa8-vfp-neon
+OE: libcap
+Homepage: http://sites.google.com/site/fullycapable/
+Depends: libattr1 (>= 2.4.46), libc6 (>= 2.17)
+Recommends: libcap-lic
+Source: ftp://ftp.debian.org/debian/pool/main/libc/libcap2/libcap2_2.22.orig.tar.gz

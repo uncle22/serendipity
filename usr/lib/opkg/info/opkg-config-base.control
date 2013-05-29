@@ -1,0 +1,13 @@
+Package: opkg-config-base
+Version: 1.0-r1.6
+Description: opkg-config-base version 1.0-r1
+ Base configuration files for opkg
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: MIT
+Architecture: tuna
+OE: opkg-config-base
+Homepage: unknown
+Recommends: opkg-config-base-lic
+Source: None

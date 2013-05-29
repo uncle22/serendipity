@@ -1,0 +1,14 @@
+Package: opkg-utils
+Version: 0.1.8+git0+757a1664a440c60e8126443bf984e4bdf374c327-r0.2
+Description: opkg-utils version 0.1.8+gitAUTOINC+757a1664a440c60e8126443bf984e4bdf374c327-r0
+ OPKG Package Manager Utilities
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+
+Architecture: cortexa8-vfp-neon
+OE: opkg-utils
+Homepage: http://wiki.openmoko.org/wiki/Opkg
+Depends: python-pickle, python-shell, python, python-textutils, python-math, python-subprocess, python-io, python-logging, python-compression, libc6 (>= 2.17), python-crypt, python-fcntl, python-stringold
+Recommends: opkg-utils-lic
+Source: git://git.yoctoproject.org/opkg-utils;protocol=git

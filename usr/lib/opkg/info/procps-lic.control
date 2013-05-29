@@ -1,0 +1,14 @@
+Package: procps-lic
+Version: 3.2.8-r11.2
+Description: System and process monitoring utilities
+ Procps contains a set of system utilities that provide system information
+ about processes using the /proc filesystem. The package \ includes the
+ programs ps, top, vmstat, w, kill, and skill.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2+ & LGPLv2+
+Architecture: cortexa8-vfp-neon
+OE: procps
+Homepage: http://procps.sf.net
+Source: http://procps.sourceforge.net/procps-3.2.8.tar.gz file://install.patch file://procmodule.patch file://psmodule.patch file://linux-limits.patch file://sysctl.conf file://procps-3.2.8+gmake-3.82.patch file://gnu-kbsd-version.patch file://60_linux_version_init.patch

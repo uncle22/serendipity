@@ -1,0 +1,12 @@
+Package: sqlite3-lic
+Version: 3071502-r2.1
+Description: sqlite3 version 3071502-r2
+ An Embeddable SQL Database Engine
+Section: libs
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: PD
+Architecture: cortexa8-vfp-neon
+OE: sqlite3
+Homepage: http://www.sqlite.org
+Source: http://www.sqlite.org/sqlite-autoconf-3071502.tar.gz file://removedoc-webos.patch

@@ -1,0 +1,9 @@
+/etc/palm/sysservice-backupkeys.json
+/usr/share/dbus-1/system-services/com.palm.systemservice.service
+/etc/palm/sysservice.conf
+/etc/event.d/LunaSysService
+/usr/sbin/LunaSysService
+/usr/share/ls2/roles/prv/com.palm.systemservice.json
+/etc/palm/backup/com.palm.systemservice.backupRegistration.json
+/usr/share/dbus-1/services/com.palm.systemservice.service
+/usr/share/ls2/roles/pub/com.palm.systemservice.json

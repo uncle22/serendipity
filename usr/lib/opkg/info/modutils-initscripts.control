@@ -1,0 +1,13 @@
+Package: modutils-initscripts
+Version: 1.0-r6.2
+Description: modutils-initscripts version 1.0-r6
+ modutils configuration files
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: PD
+Architecture: cortexa8-vfp-neon
+OE: modutils-initscripts
+Homepage: unknown
+Recommends: update-rc.d, modutils-initscripts-lic
+Source: file://modutils.sh file://PD.patch

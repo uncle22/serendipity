@@ -1,0 +1,8 @@
+/usr/share/dbus-1/services/webos-connman-adapter.service
+/etc/connman/main.conf
+/usr/share/ls2/roles/pub/webos-connman-adapter.json
+/usr/share/dbus-1/system-services/webos-connman-adapter.service
+/usr/sbin/webos-connman-adapter
+/usr/share/ls2/roles/prv/webos-connman-adapter.json
+/etc/event.d/webos-connman-adapter
+/etc/connman/

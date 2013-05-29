@@ -1,0 +1,4 @@
+/etc/event.d/pvrinit
+/etc/event.d/
+/init.rc
+/etc/event.d/android_finish

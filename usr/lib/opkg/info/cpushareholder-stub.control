@@ -1,0 +1,14 @@
+Package: cpushareholder-stub
+Version: 2.0.1-2-r2.4
+Description: Stubbed implementation of the webOS CPU shares scripts
+ Stubbed implementation of the webOS CPU shares scripts
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: cpushareholder-stub
+Homepage: unknown
+Recommends: cpushareholder-stub-lic
+Provides: cpushareholder
+Source: git://github.com/openwebos/cpushareholder-stub

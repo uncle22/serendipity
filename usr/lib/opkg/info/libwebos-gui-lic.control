@@ -1,0 +1,12 @@
+Package: libwebos-gui-lic
+Version: 1.0.0+gitr0+82829bc553b29f643bbe9e82cb3285f96fc5b33d-r0.4
+Description: webOS graphics library
+ webOS graphics library
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: cortexa8-vfp-neon
+OE: libwebos-gui
+Homepage: unknown
+Source: git://github.com/webOS-ports/libwebos-gui;branch=master;protocol=git

@@ -1,0 +1,3 @@
+	touch $D/etc/shells
+	grep -q "bin/bash" $D/etc/shells || echo /bin/bash >> $D/etc/shells
+	grep -q "bin/sh" $D/etc/shells || echo /bin/sh >> $D/etc/shells

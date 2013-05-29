@@ -1,0 +1,12 @@
+Package: packagegroup-webos-upstart-lic
+Version: 1.0-r5.2
+Description: packagegroup-webos-upstart version 1.0-r5
+ Upstart components use by the Open webOS project
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: packagegroup-webos-upstart
+Homepage: unknown
+Source: None

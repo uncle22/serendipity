@@ -1,0 +1,3 @@
+/sbin/halt
+/bin/busybox 50
+/sbin/halt.upstart 200

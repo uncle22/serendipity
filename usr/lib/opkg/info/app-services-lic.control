@@ -1,0 +1,12 @@
+Package: app-services-lic
+Version: 3.0.0-1-r5.4
+Description: JavaScript services for apps
+ JavaScript services for apps
+Section: webos/services
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: all
+OE: app-services
+Homepage: unknown
+Source: git://github.com/openwebos/app-services

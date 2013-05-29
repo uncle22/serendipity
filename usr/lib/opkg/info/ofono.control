@@ -1,0 +1,16 @@
+Package: ofono
+Version: 1.12+git3+3ed41ee4ea3a9ff222931586c5fa90e6f9090222-r7.0
+Description: open source telephony
+ oFono is a stack for mobile telephony devices on Linux. oFono supports
+ speaking to telephony devices through specific drivers, or with generic
+ AT commands.
+Section: base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: GPLv2
+Architecture: cortexa8-vfp-neon
+OE: ofono
+Homepage: http://www.ofono.org
+Depends: android-audiosystem (>= 1.8+bzr43), android-apn-database, dbus-1, libdbus-1-3 (>= 1.6.8), libudev0 (>= 182), bluez4 (>= 4.101), libc6 (>= 2.17), libglib-2.0-0 (>= 2.34.3)
+Recommends: update-rc.d, ofono-lic
+Source: git://github.com/webOS-ports/ofono-ubuntu.git;protocol=git;branch=master file://ofono file://ofono.upstart

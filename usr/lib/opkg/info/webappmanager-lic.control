@@ -1,0 +1,12 @@
+Package: webappmanager-lic
+Version: 3.0.0-3+wop+gitr0+591367d418e96bc19c5250d7fbb1146919f21a50-r9.7
+Description: WebAppMgr is responsible for running Enyo applications on webOS
+ WebAppMgr is responsible for running Enyo applications on webOS
+Section: webos/base
+Priority: optional
+Maintainer: Steve Winston <steve.winston@lge.com>
+License: Apache-2.0
+Architecture: tuna
+OE: webappmanager
+Homepage: unknown
+Source: git://github.com/webOS-ports/webappmanager;branch=webOS-ports/master
